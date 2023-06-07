@@ -1,0 +1,550 @@
+Name,LATITUDE,LONGITUDE,road,town,county,province,region,postcode,suburb
+MEYDAN TAKSİ,40.9856172,28.7245354,D100,Avcılar,Üniversite Mahallesi,İstanbul,Marmara Bölgesi,34320,
+KARADENİZ TAKSİ,40.9853615,29.0593703010001,Karaman Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34732,Merdivenköy Mahallesi
+STAR TAKSİ,40.9772661,29.0741841010001,Turkuaz Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34738,Erenköy Mahallesi
+OYAK SİTESİ GÜL TAKSİ,41.1088455010001,28.9966259010001,Huzur Okulları Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Huzur Mahallesi
+SİTE TAKSİ,41.089348,29.0222913010001,Yıldırım Oğuz Göker Sokak,Beşiktaş,,İstanbul,Marmara Bölgesi,34335,Akat Mahallesi
+TAKSİM İLK YARDIM HASTANE TAKSİ,41.0321245,28.983375301,Bakraç Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34433,Cihangir
+EVORA PARK SİTE TAKSİ,40.8590304,29.3005623010001,Prof. Dr. Necmettin Erbakan Caddesi,Tuzla,,İstanbul,Marmara Bölgesi,34947,Aydıntepe Mahallesi
+ALTAYÇEŞME TAKSİ-2,40.9375427,29.134852601,Seri Sokağı,Maltepe,,İstanbul,Marmara Bölgesi,34843,Altayçeşme Mahallesi
+DERBENT KÜLTÜR TAKSİ,41.130406801,29.025740801,,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Çamlıtepe Mahallesi
+ANADOLU MERKEZ DAYANIŞMA TAKSİ,40.9694624,29.111460101,Birleşik Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+ŞEN TAKSİ-2,40.966870601,29.0991667010001,Şehit Fatih Devravut Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34742,Kozyatağı Mahallesi
+SARAY TAKSİ,40.910204,29.1636910010001,Keban Sokağı,Kartal,,İstanbul,Marmara Bölgesi,34846,Orhantepe Mahallesi
+YENİ LEVENT MERCAN TAKSİ,41.0899084,29.0099961010001,Ladin Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Konaklar Mahallesi
+QUEEN BOMONTİ,41.0574013,28.9754775,İncirli Dede Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34380,
+MALL OF İSTANBUL TAKSİ,41.0643094,28.8068309010001,O3 Güney Yanyolu,Başakşehir,,İstanbul,Marmara Bölgesi,34490,Ziya Gökalp Mahallesi
+ÇEMBERLİTAŞ MEYDAN,41.0095121270001,28.9708620530001,Vezirhanı Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34120,Molla Fenari Mahallesi
+BEYAZIT MEYDAN TAKSİ,41.009012737,28.965869739,Yeniçeriler Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34130,Mimar Kemalettin Mahallesi
+YUNUS EMRE TAKSİ,41.0112618860001,29.09073003,,Ümraniye,,İstanbul,Marmara Bölgesi,34762,Esenevler Mahallesi
+DRAGOS TAKSİ,40.9122,29.138,Timurhan Sokak,Maltepe,,İstanbul,Marmara Bölgesi,34844,Yalı Mahallesi
+KOZDERE TAKSİ,41.156547538,29.026962617,Akbuğday Çıkmazı Sokağı,Sarıyer,,İstanbul,Marmara Bölgesi,34453,Kazım Karabekir Paşa Mahallesi
+İSTANBUL DERİ ORGANİZE SANAYİİ TAKSİ,40.887456754,29.3637389240001,OSB 9. Yol Sk.,Tuzla,,İstanbul,Marmara Bölgesi,34956,Orhanlı
+İSPARK - ZEYTİNBURNU 58. BULVAR DEPO DURAĞI,40.988634801,28.9039132,58. Bulvar Caddesi,Zeytinburnu,,İstanbul,Marmara Bölgesi,34020,Yenidoğan Mahallesi
+ERESİN OTEL TAKSİ,41.019370092,28.9254189760001,Paşa Odaları Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34093,Topkapı Mahallesi
+MİGROS TAKSİ,41.0042157010001,28.6559333,Zafer Caddesi,Beylikdüzü,,İstanbul,Marmara Bölgesi,34520,Barış Mahallesi
+İSPARK KARTAL İDO,40.887278301,29.1881111,Turgut Özal Bulvarı,Kartal,,İstanbul,Marmara Bölgesi,34860,Kordonboyu Mahallesi
+AYAZAĞA GÜVEN TAKSİ DURAĞI,41.1152574010001,28.9991608010001,,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Ayazağa Mahallesi
+ŞİFA TAKSİ DURAĞI,40.825760501,29.3544946,İnönü Caddesi,Tuzla,,İstanbul,Marmara Bölgesi,34950,Şifa
+KUBİLAY TAKSİ,41.0830096650001,29.002661016,İsmet İnönü Cd.,Kâğıthane,,İstanbul,Marmara Bölgesi,34413,Çeliktepe Mahallesi
+İNCİRALTI TAKSİ,40.9924349,28.7076093790001,Meşrutiyet Caddesi,Avcılar,,İstanbul,Marmara Bölgesi,34310,
+ÇAMLICA BEREKET TAKSİ DURAĞI,41.0312259,29.0892472,Yıldırım Beyazıt Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34764,Tantavi Mahallesi
+FULYA TAKSİ,41.060962901,28.9984458,Ortaklar Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34346,Fulya Mahallesi
+İSPARK MERTER METRO,41.006124201,28.8935779010001,General Ali Rıza Gürcan Caddesi,Güngören,,İstanbul,Marmara Bölgesi,34173,Abdurrahman Nafiz Gürman Mahallesi
+İSPARK - BEYOĞLU SIRASELVİLER CADDESİ,41.0357217010001,28.984712299,Sıraselviler Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34437,Katip Mustafa Çelebi Mahallesi
+ATAMERKEZ MERKEZ TAKSİ,40.988906801,28.8391086,Yüzücü Talat Yüzmen Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 7-8-9-10. Kısım Mahallesi
+HURRY IN TURİZM OTEL TAKSİ,41.010951542,28.891458207,Göksel Sokağı,Güngören,,İstanbul,Marmara Bölgesi,34173,Mehmet Nesih Özmen Mahallesi
+REŞADİYE CADDESİ EMİNÖNÜ İDO İSKELESİ ÖNÜ UATD,41.017659001,28.9741391,Reşadiye Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34112,Hobyar Mahallesi
+GRAND HAYATT TAKSİ,41.0404525010001,28.9888746,Bomonti-Dolmabahçe Tüneli,Şişli,,İstanbul,Marmara Bölgesi,34367,Bozkurt Mahallesi
+NEF TAKSİ,41.0821888450001,28.978602107,,Kâğıthane,,İstanbul,Marmara Bölgesi,34403,Çağlayan Mahallesi
+SEYRANTEPE EMNİYET TAKSİ DURAĞI,41.0995,28.9934999990001,Cesur Sokağı,Kâğıthane,,İstanbul,Marmara Bölgesi,34398,Seyrantepe Mahallesi
+ASTORİA  TAKSİ DURAĞI,41.0695971870001,29.005572687,2. Keskin Kalem Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34394,Esentepe Mahallesi
+İSPARK - ÜSKÜDAR BEYLERBEYİ METROBÜS DURAĞI YANI,41.0358388010001,29.0431699,Gümüşyolu Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34676,Beylerbeyi Mahallesi
+MİDDİLİST TAKSİ DURAĞI,41.0616,28.972,,Şişli,,İstanbul,Marmara Bölgesi,34384,Kaptanpaşa Mahallesi
+İdare Taksi-3,41.093641957,28.969550896,,Kâğıthane,,İstanbul,Marmara Bölgesi,34408,Hamidiye Mahallesi
+ÇİNİLİ TAKSİ,41.0232553930001,29.0259501090001,Selami Ali Efendi Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34672,Mimar Sinan Mahallesi
+MEDİCAL PARK TAKSİ DURAĞI,40.983999501,29.0894728,Halk Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34734,Sahrayıcedit Mahallesi
+İSPARK BEYKOZ,41.0947378010001,29.0897113,Orhan Veli Kanık Caddesi,Beykoz,,İstanbul,Marmara Bölgesi,34805,Kavacık Mahallesi
+KUŞDİLİ UATD YERİ,40.989744101,29.0308591,Kuşdili Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34714,Osmanağa Mahallesi
+TUZLA İÇMELER MERKEZ TAKSİ DURAĞI,40.8503847010001,29.2988792,Dr. Sadık Ahmet Caddesi,Tuzla,,İstanbul,Marmara Bölgesi,34947,Aydıntepe Mahallesi
+BALTA LİMANI TAKSİ DURAĞI,41.0967549010001,29.0533592990001,,Sarıyer,,İstanbul,Marmara Bölgesi,34470,Baltalimanı Mahallesi
+İÇERENKÖY MERKEZ TAKSİ,40.963754201,29.1117522,Sazak Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+KIRAÇ MERKEZ TAKSİ DURAĞI,41.035536601,28.6454582010001,Atatürk Caddesi,Esenyurt,,İstanbul,Marmara Bölgesi,34522,İstiklal Mahallesi
+İSPARK DOLMABAHÇE,41.0430804010001,28.992644,Kadırgalar Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34367,Harbiye
+SAMATYA SGK HASTANE-1,41.0022,28.9372,,Fatih,,İstanbul,Marmara Bölgesi,34107,Cerrahpaşa Mahallesi
+YEŞİLYURT TAKSİ DURAĞI,40.9650828010001,28.8372737,Yeşilyurt İstasyon Caddesi,Bakırköy,,İstanbul,Marmara Bölgesi,34149,Yeşilyurt Mahallesi
+1. ULUS TAKSİ DURAĞI,41.0659486010001,29.0304628,Ahmet Adnan Saygun Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34345,Kuruçeşme Mahallesi
+İSKENDERPAŞA TAKSİ,41.015849501,28.948559199,Feyzullah Efendi Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34080,Akşemsettin Mahallesi
+İSPARK BAKIRKÖY IDO,40.9736042010001,28.8766197,Kennedy Caddesi,Bakırköy,,İstanbul,Marmara Bölgesi,34140,Zeytinlik Mahallesi
+NİHAT TARLAN TAKSİ DURAĞI,40.9544993010001,29.0945172,,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+ÜSKÜDAR ÇAYIR TAKSİ DURAĞI,41.0145137270001,29.085371394,Söğütlüçayır Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34697,Cumhuriyet Mahallesi
+BALON TESİSİ YANI UATD,40.990691301,29.0194903,Damga Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34710,Caferağa Mahallesi
+AVRUPA TAKSİ DURAĞI,41.062734801,28.995878401,,Şişli,,İstanbul,Marmara Bölgesi,34346,Fulya Mahallesi
+GÜL TAKSİ DURAĞI,41.057453901,28.9735380990001,,Şişli,,İstanbul,Marmara Bölgesi,34384,Halide Edip Adıvar Mahallesi
+KUYUMCUKENT TAKSİ,41.0030802810001,28.81581986,,Bahçelievler,,İstanbul,Marmara Bölgesi,34197,Yenibosna Merkez Mahallesi
+ÇIRAĞAN TAKSİ 2,41.044599899,29.0160888130001,Çırağan Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,00034,Yıldız Mahallesi
+İSPARK Gülsuyu Metro Durağı,40.9238000010001,29.1567,,Maltepe,,İstanbul,Marmara Bölgesi,34848,Gülsuyu Mahallesi
+TURİZM TAKSİ DURAĞI,40.958886901,28.8219954,Sait Kesler Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34149,Yeşilköy Mahallesi
+TURUNCU TAKSİ,40.9931,28.834599999,,Bahçelievler,,İstanbul,Marmara Bölgesi,34196,Fevzi Çakmak Mahallesi
+AVCILAR GOL TAKSİİ DURAĞI,40.9844,28.7370999990001,İskeçe Caddesi,Avcılar,Üniversite Mahallesi,İstanbul,Marmara Bölgesi,34320,Gümüşpala Mahallesi
+Sefaköy Merkez Taksi - 2,41.009,28.7997,Beşir Kemal Caddesi,Küçükçekmece,,İstanbul,Marmara Bölgesi,34295,Tevfikbey Mahallesi
+İSPARK Ragıp Gümüşpala Caddesi,41.0176,28.9711999990001,Eminönü Meydanı,Fatih,,İstanbul,Marmara Bölgesi,34116,Rüstempaşa Mahallesi
+Atrium Taksi,40.9879,28.8471,Karanfil Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 7-8-9-10. Kısım Mahallesi
+İSPARK - KADIKÖY İDO İSKELESİ HALDUN TANER SAHNESİ ÖNÜ,40.991573101,29.0235296,Rıhtım Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34710,Caferağa Mahallesi
+İSPARK KOZYATAĞI METRO-HALYOLU,40.9756,29.1001,Üsküdar-İçerenköy Yolu Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+HİZMET TAKSİ,40.993371473,29.22740143,Asır Caddesi,Sancaktepe,,İstanbul,Marmara Bölgesi,34887,Abdurrahmangazi Mahallesi
+RAMİ MEYDAN ERAY TAKSİ DURAĞI,41.0482812010001,28.920922,Rami Eyüp Yolu Caddesi,Eyüpsultan,,İstanbul,Marmara Bölgesi,34055,Rami Cuma Mahallesi
+ÇİÇEK TAKSİ,41.014897401,28.691358999,Deniz Gezmiş Caddesi,Esenyurt,Namık Kemal Mahallesi,İstanbul,Marmara Bölgesi,34513,Zafer Mahallesi
+BABIALİ TAKSİ,41.010289201,28.9746615,Nur-u Osmaniye Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34110,Alemdar Mahallesi
+ÇİÇEK TAKSİ,41.094837967,29.089874057,Orhan Veli Kanık Caddesi,Beykoz,,İstanbul,Marmara Bölgesi,34805,Kavacık Mahallesi
+SUADİYE MERKEZ TAKSİ DURAĞI,40.9562505010001,29.0797255,Otopark İçi Yol,Kadıköy,,İstanbul,Marmara Bölgesi,34740,Suadiye Mahallesi
+SOYAK YENİ ŞEHİR TAKSİ,41.0069470010001,29.1127019,,Ümraniye,,İstanbul,Marmara Bölgesi,34760,Site Mahallesi
+PENDİK DEVLET HASTANESİ  TAKSİ DURAĞI,40.885900001,29.266,Ladik Sokak,Pendik,,İstanbul,Marmara Bölgesi,34899,Fevzi Çakmak Mahallesi
+Akyol Taksi,41.0332999990001,28.9872000010001,Akyol Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34433,Cihangir
+SİLİVRİ E 5 TAKSİ DURAĞI,41.0760811010001,28.2505784,Albay Yunus Dirik Caddesi,Silivri,,İstanbul,Marmara Bölgesi,34570,Alibey Mahallesi
+MARMARA FORM TAKSİ,40.9989494010001,28.8854544,Çobançeşme Koşuyolu Bulvarı,Bakırköy,,İstanbul,Marmara Bölgesi,34146,Osmaniye Mahallesi
+AİLE TAKSİ,41.0546,29.0227,Muhtar Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34347,Balmumcu Mahallesi
+Kirazlı Merkez Taksi,41.0342208770001,28.8344455980001,1216. Sokak,Bağcılar,,İstanbul,Marmara Bölgesi,34212,Kirazlı Mahallesi
+BOSTANCİ MEYDAN TAKSİ,40.953600001,29.0951,Bağdat Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+SAHRA BİRLİK TAKSİ,40.984200001,29.0843,Umutlar Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34734,Sahrayıcedit Mahallesi
+HUZUR TAKSİ DURAĞI,41.0788784010001,28.926322,SEVGİ SOKAK,Eyüpsultan,,İstanbul,Marmara Bölgesi,34065,Yeşilpınar Mahallesi
+KARTALTEPE MAH ATATÜRK BULVARI UMUMA AÇIK TAKSİ DURAĞI,40.8901,29.1904999990001,Ekber Sokağı,Kartal,,İstanbul,Marmara Bölgesi,34870,Karlıktepe Mahallesi
+İSPARK - AĞITHANE ALİBEYKÖY SİLAHTARAĞA BİLİ ÜNİVERSİTESİ YANI,41.069848001,28.9457503,Kazım Karabekir Caddesi,Eyüpsultan,,İstanbul,Marmara Bölgesi,34060,Emniyettepe Mahallesi
+GÜNAYDIN TAKSİ DURAĞI,41.084460001,29.0410849,Özengi Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34337,Etiler Mahallesi
+OKMEYDANI MERKEZ TAKSİ DURAĞI,41.058110201,28.9655201,,Şişli,,İstanbul,Marmara Bölgesi,34384,Halil Rıfat Paşa Mahallesi
+BAŞAK TAKSİ,41.092521204,28.974585802,Girne Caddesi,Kâğıthane,,İstanbul,Marmara Bölgesi,34408,Hamidiye Mahallesi
+DEMİRCİKÖY MARTI TAKSİ DURAĞI-2-,41.205952301,29.0416719,Kardelen Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34450,Zekeriyaköy Mahallesi
+MAYADROM TAKSİ DURAĞI,41.087939201,29.0212956010001,,Beşiktaş,,İstanbul,Marmara Bölgesi,34335,Akat Mahallesi
+HİLAL TAKSİ DURAĞI,40.882155201,29.2372723990001,Polen Sokağı,Pendik,,İstanbul,Marmara Bölgesi,34893,Bahçelievler Mahallesi
+"KALAMIŞ MARİNA TAKSİ DURAĞI""",40.9777945010001,29.0405879,Münir Nürettin Selçuk Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Fenerbahçe Mahallesi
+ULUS PARK TAKSİ DURAĞI,41.0623515010001,29.033602,Çağrı Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34345,Kuruçeşme Mahallesi
+DOĞU SANAYİ TAKSİ-2,41.0158509770001,28.818808119,,Bahçelievler,,İstanbul,Marmara Bölgesi,34197,Yenibosna Merkez Mahallesi
+İSPAK - KADIKÖY BOSTANCI İDO VE ADALAR İSKELESİ ÖNÜ,40.9523856010001,29.094311,Çetin Emeç Bulvarı,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+LEVAZIM SİTESİ TAKSİ,41.0644533010001,29.0182554,,Beşiktaş,,İstanbul,Marmara Bölgesi,34340,Levazım Mahallesi
+İSPARK - ÇIRPICI METRO İSTASYONU UMUMA AÇIK TAKSİ DURAĞI,41.001204601,28.8905331,,Bakırköy,,İstanbul,Marmara Bölgesi,34146,Osmaniye Mahallesi
+ŞEHZADEBAŞI TAKSİ,41.012169638,28.9595123350001,Şehzadebaşı Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34120,Kemalpaşa Mahallesi
+GALATAPORT TAKSİ DURAĞI,41.025816401,28.9818069,Tophane İskele Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34425,Kemankeş Karamustafa Paşa
+BATMAN SOKAK BUHU BABA UMUMA AÇIK TAKSİ DURAĞI,40.986500001,29.086199999,Batman Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34734,Sahrayıcedit Mahallesi
+MALTEPE PARK AVM TAKSİ,40.9188786130001,29.162536936,Cevizli Mah.,Maltepe,,İstanbul,Marmara Bölgesi,34846,Cevizli Mahallesi
+TARABYA BAYIRI UATD,41.140237701,29.0301321,Tarabya Bayırı Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Çamlıtepe Mahallesi
+FLORYA TURİZM TAKSİ,40.9722380010001,28.7903847,Kırserdar Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34153,Şenlikköy Mahallesi
+BAKIRKÖY DEVLET HASTANESİ TAKSİ DURAĞI,40.993236901,28.867357799,Baharözü Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34147,Zuhuratbaba Mahallesi
+HARAMİDERE GEÇİT TAKSİ 1,41.0099800780001,28.670841647,,Esenyurt,,İstanbul,Marmara Bölgesi,34513,Güzelyurt Mahallesi
+ÇINAR TAKSİ DURAĞI,40.957595801,28.832218,Papatya Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34149,Yeşilköy Mahallesi
+ERGUVAN TAKSİ,41.1442035430001,28.4610715330001,Tevfik Erdönmez Caddesi,Çatalca,,İstanbul,Marmara Bölgesi,,Kaleiçi Mahallesi
+BİRLİK TAKSİ,41.029208548,29.0388895580001,Kuzguncuk Deresi Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34674,İcadiye Mahallesi
+SAPPHİRE TAKSİ,41.0845545010001,29.0060958010001,İsmet İnönü Caddesi,Kâğıthane,,İstanbul,Marmara Bölgesi,34415,Emniyetevleri Mahallesi
+Balıklı Rum Hastane Taksi,40.9957,28.9156,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34020,Kazlıçeşme Mahallesi
+ATAŞEHİR MERKEZ TAKSİ,40.9918063740001,29.136724277,3. Cadde,Ataşehir,,İstanbul,Marmara Bölgesi,34758,Atatürk Mahallesi
+Yenikapı Taksi,41.006100001,28.954,Fabrika Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34130,Katip Kasım Mahallesi
+İÇERENKÖY CARREFOR AVM TAKSİ,40.9794759600001,29.0974039660001,Kayışdağı Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+SANTRAL TAKSİ DURAĞI-1,40.9736007010001,29.069682501,Ömerpaşa Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34738,Erenköy Mahallesi
+KOZA TAKSİ DURAĞI,41.060856422,28.674633554,Reşneli Niyazi Sokağı,Esenyurt,,İstanbul,Marmara Bölgesi,34538,Aşık Veysel Mahallesi
+BORSA TAKSİ DURAĞI,41.1034354010001,29.0479135,,Sarıyer,,İstanbul,Marmara Bölgesi,34467,Reşitpaşa Mahallesi
+VADİSTANBUL Avm içi,41.106983386,28.986085372,Azerbaycan Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34396,Ayazağa Mahallesi
+SAMANDIRA MERKEZ TAKSI,40.9842,29.2301,,Sancaktepe,,İstanbul,Marmara Bölgesi,34885,Eyüp Sultan Mahallesi
+SULTANGAZİ DEVLET HASTANESİ TAKSİ,41.103356911,28.87329435,Hastane Caddesi,Sultangazi,,İstanbul,Marmara Bölgesi,34265,Uğur Mumcu Mahallesi
+UYGUN TAKSİ,41.0833,29.0147,Zerrin Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Levent Mahallesi
+PENDİK DENİZ TAKSİ DURAĞI,40.8763928010001,29.2352404,Erol Kaya Caddesi,Pendik,,İstanbul,Marmara Bölgesi,34890,Doğu Mahallesi
+POLAT TOWER RESİDENCE TAKSİ,41.0562835860001,28.9994188970001,Sakızağacı Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34365,Fulya Mahallesi
+SELİMPAŞA MERKEZ TAKSİ,41.0554195010001,28.367371201,,Silivri,,İstanbul,Marmara Bölgesi,34590,Selimpaşa Mahallesi
+ROFO TAKSİ,41.0217513520001,28.943826169,Mevkufatçı Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34091,Hırka-i Şerif Mahallesi
+PENDİK BİRLİK TAKSİ DURAĞI,40.875600901,29.2326974010001,,Pendik,,İstanbul,Marmara Bölgesi,34890,Batı Mahallesi
+İSPARK 4. LEVENT METRO ÇIKIŞI,41.0868,29.006600001,Eski Büyükdere Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34394,Esentepe Mahallesi
+KEMERTÜRK TAKSI,41.160647801,28.9100592,Selanik Bulvarı,Eyüpsultan,,İstanbul,Marmara Bölgesi,34075,Mithatpaşa Mahallesi
+KARDİYUM TAŞDELEN TAKSİ,41.032,29.227400001,Turgut Özal Caddesi,Çekmeköy,,İstanbul,Marmara Bölgesi,34788,Sultançiftliği Mahallesi
+İSPARK - BEŞİKTAŞ İSKELE CFADDESİ,41.0413649010001,29.0073988990001,Çiğdem Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34353,
+USKUMRUKÖY DÖRTYOL TAKSİ,41.2194021920001,29.033781187,Kilyos Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34450,Uskumruköy Mahallesi
+YENİSAHRA METRO DURAĞI,40.9857,29.0892,D100,Kadıköy,,İstanbul,Marmara Bölgesi,34734,Sahrayıcedit Mahallesi
+GÜNEŞLİ MERKEZ TAKSİ,41.031398096,28.8280282960001,Cumhuriyet Caddesi,Bağcılar,,İstanbul,Marmara Bölgesi,34212,Güneşli Mahallesi
+MASHATTAN TAKSİ-1,41.111099999,29.0217,Dereboyu Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Maslak Mahallesi
+GÜNER TAKSİ,40.9778899350001,28.7200401480001,Denizköşkler Caddesi,Avcılar,,İstanbul,Marmara Bölgesi,34315,Ambarlı Mahallesi
+KARTAL BİRLİK TAKSİ,40.8869582140001,29.1838115420001,Savarona Meydanı,Kartal,,İstanbul,Marmara Bölgesi,34860,Kordonboyu Mahallesi
+SİTE TAKSİ DURAĞI,40.957633838,28.8214625750001,Cümbüş Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34149,Yeşilköy Mahallesi
+OLYMPİA TAKSİ DURAĞI,41.0487104010001,28.7851244,,Küçükçekmece,,İstanbul,Marmara Bölgesi,34307,Atakent Mahallesi
+GÜNGÖREN MERKEZ TAKSİ DURAĞ,41.022334001,28.8655158,Çalışkan Sokağı,Güngören,,İstanbul,Marmara Bölgesi,34164,Güneştepe Mahallesi
+MASLAK ÇARŞI TAKSİ,41.1101541450001,29.024885806,,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Maslak Mahallesi
+Fulya Mehmetçik Taksi,41.057800001,28.9969,Mehmetcik Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34394,Fulya Mahallesi
+ÖZLEM TUR TAKSI,40.9786258010001,29.0832324,Bahçeli Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34734,Sahrayıcedit Mahallesi
+BEYKOZ UFUK TAKSİ,41.1339304700001,29.0919100250001,Kelle İbrahim Caddesi,Beykoz,,İstanbul,Marmara Bölgesi,34820,Merkez Mahallesi
+ESENTEPE TAKSİ,40.9001000010001,29.1851,İnönü Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34870,Karlıktepe Mahallesi
+ŞİŞLİ KAPTANPAŞA DARULACEZE YOLU,41.0654000010001,28.9730000010001,Namzet Sokağı,Kâğıthane,,İstanbul,Marmara Bölgesi,34385,Gürsel Mahallesi
+ÖZ SİTE TAKSİ 1 TAKSİ,41.080931418,28.250940798,Abdülhalik Renda Sokak,Silivri,,İstanbul,Marmara Bölgesi,34570,Yeni Mahalle
+ACIBADEM UMUMA AÇIK TAKSİ DURAĞI,41.0152,29.0571,Erkan Ocaklı Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34696,Küçük Çamlıca Mahallesi
+İSPARK MAÇKA,41.047996901,28.9945259,Maçka Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34367,Harbiye
+BAKIRKÖY BİRLİK TAKSİ,40.985300001,28.8778,Yeni Caddesi,Bakırköy,,İstanbul,Marmara Bölgesi,34145,Kartaltepe Mahallesi
+MİSS TAKSİ,41.0453,28.7643,,Küçükçekmece,,İstanbul,Marmara Bölgesi,34307,Atakent Mahallesi
+ŞİRKET TAKSİ,41.1294,29.0478,,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Ferahevler Mahallesi
+SÜREYYA TAKSİ DURAĞI,40.926799999,29.1263,Serap Caddesi,Maltepe,,İstanbul,Marmara Bölgesi,34843,Feyzullah Mahallesi
+KARTAL METRO DURAĞI,40.906099999,29.2105,D100,Kartal,,İstanbul,Marmara Bölgesi,34870,Esentepe Mahallesi
+SILIVRI MARIN PRENSES TAKSI,41.037390101,28.4370801,İstanbul Caddesi,Büyükçekmece,,İstanbul,Marmara Bölgesi,34534,Kamiloba Mahallesi
+KAĞITHANE EMNİYET TAKSİ DURAĞI,41.085899999,29.0058000010001,Akarsu Caddesi,Kâğıthane,,İstanbul,Marmara Bölgesi,34415,Emniyetevleri Mahallesi
+İSPARK RIHTIM 2,40.990042701,29.0224898,Albay Fak Sözdener Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34710,Caferağa Mahallesi
+MEYDAN İSTANBUL AVM TAKSİ,41.024709972,29.126177124,Poligon Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34771,Fatih Sultan Mehmet Mahallesi
+AĞAOĞLU ELTES GÜNEŞİ TAKSİ DURAĞI,41.010979901,29.1789622,Şehit Ünal Kalafat Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34776,Madenler Mahallesi
+ÜMRANİYE EĞİTİM VE  ARAŞTIRMA HASTANESİ TAKSİ,41.031314697,29.103053817,Adem Yavuz Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34768,İnkılap Mahallesi
+KONUT TAKSİ,41.0479847010001,28.8005722,Kartopu Sokağı,Küçükçekmece,,İstanbul,Marmara Bölgesi,34307,Atatürk Mahallesi
+İSPARK BARBAROS CAD TAKSİ,41.115753205,29.0951915270001,Barbaros Caddesi,Beykoz,,İstanbul,Marmara Bölgesi,34800,Paşabahçe Mahallesi
+KARANFİL TAKSİ,41.084015849,29.027132663,Maden Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34335,Akat Mahallesi
+KADİR HAS ÇOCUK DÜNYASI TAKSİ,40.9960999990001,28.864900001,Kültür Sokağı,Bahçelievler,,İstanbul,Marmara Bölgesi,34180,
+Mecidiyeköy Yolu Caddesi(trump kuleleri avm önü),41.0672,28.9921,,Şişli,,İstanbul,Marmara Bölgesi,34346,
+CEVİZLİ TAKSİ,40.9060535890001,29.1602832560001,Kamp Yolu Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34846,Orhantepe Mahallesi
+ÇAMLIK CADDESİ İSPARK,41.0814,29.0133,Prof. Kemal Ahet Aru Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Levent Mahallesi
+HİLAL TAKSİ,41.0294,28.9364,,Fatih,,İstanbul,Marmara Bölgesi,34091,Karagümrük Mahallesi
+İSPARK NUH KUYUSU CAD.(ASLI BÖREK ÖNÜ),41.0232,29.036399999,Nuh Kuyusu Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,,Muratreis Mahallesi
+DORUK TAKSİ-1,41.0819000010001,28.9178,Pamuk Sokağı,Eyüpsultan,,İstanbul,Marmara Bölgesi,34065,Yeşilpınar Mahallesi
+Göztepe Metro Durağı,40.993799999,29.0709,D100,Üsküdar,,İstanbul,Marmara Bölgesi,34700,Ünalan Mahallesi
+FERHATPAŞA MERKEZ TAKSİ,40.986061862,29.177437753,Yeditepe Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34888,Ferhatpaşa Mahallesi
+KOCATEPE METRO TAKSİ DURAĞI,41.0494638,28.8966181,Kocatepe Caddesi,Bayrampaşa,,İstanbul,Marmara Bölgesi,34045,Kocatepe Mahallesi
+RIHTIM METRO TAKSİ,40.9913,29.0226,Rıhtım Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34710,Caferağa Mahallesi
+FORM İSTANBUL TAKSİ DURAĞI,41.043460001,28.897342,Paşa Caddesi,Bayrampaşa,,İstanbul,Marmara Bölgesi,34045,Kocatepe Mahallesi
+ÜSKÜDAR FIRIN SK TAKSİ DURAĞI,41.0399171010001,29.0852146,Karadeniz Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34690,Yavuztürk Mahallesi
+TORYUM AVM TAKSİ,41.004,28.6864,68. Sokak,Esenyurt,Namık Kemal Mahallesi,İstanbul,Marmara Bölgesi,34513,Turgut Özal Mahallesi
+ADATEPE TELSİZ TAKSİ,40.933888391,29.128984985,Kader Sokağı,Maltepe,,İstanbul,Marmara Bölgesi,34843,Altayçeşme Mahallesi
+DOĞAN TAKSİ DURAĞI,41.082226001,29.0379165,Bebek Dağı Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34337,Etiler Mahallesi
+BEŞİKTAŞ BASIN TAKSİ DURAĞI,41.084802901,29.0196508,Ülgen Sokak,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Levent Mahallesi
+ŞERİFALİ CAN TAKSİ,40.9977,29.1412000010001,Kızkalesi Sokağı,Ümraniye,,İstanbul,Marmara Bölgesi,34775,Şerifali Mahallesi
+HACIOSMAN TAKSİ DURAĞI,41.1414722010001,29.0297883,Araba Yolu Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Cumhuriyet Mahallesi
+TERCÜMAN TAKSİ,41.0139594010001,28.9081738990001,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34015,Merkezefendi Mahallesi
+İSPARK  KAYIŞDAĞI CAD. BAĞLARİÇİ OTOBÜS DURAĞI ALTI,40.979,29.109899999,Kayışdağı Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+ACIBADEM FATİH CAD.TAKSİ DURAĞI,41.0002,29.033,Fatih Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34718,Acıbadem
+GÜLLÜBAĞLAR,40.895,29.2756,Fersah Sokak,Pendik,,İstanbul,Marmara Bölgesi,34906,Güllü Bağlar Mahallesi
+KAYA RAMADA OTEL TAKSİ,41.023600001,28.6262,Özdemir Sokak,Esenyurt,,İstanbul,Marmara Bölgesi,34522,Gökevler Mahallesi
+SEBA OFİS BULVAR TAKSİ,41.109614435,28.993994581,Mimar Sinan Sokağı,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Ayazağa Mahallesi
+SİTE TAKSİ,41.0124690010001,28.650063301,Beylikdüzü Özgürlük Meydanı,Esenyurt,,İstanbul,Marmara Bölgesi,34521,Mevlana Mahallesi
+STAR CİTY TAKSİ,41.0106000010001,28.814899999,Kavak Sokağı,Bahçelievler,,İstanbul,Marmara Bölgesi,34197,Yenibosna Merkez Mahallesi
+SSK TAKSİ DURAĞI,40.874927601,29.2552624,Hastane Caddesi,Pendik,,İstanbul,Marmara Bölgesi,34890,Kaynarca Mahallesi
+SANCAKTEPE EĞT UYG. OKULU YANI UATD,41.0347442010001,28.8563729,Bağcılar Meydanı,Bağcılar,,İstanbul,Marmara Bölgesi,34200,Merkez Mahallesi
+İSPARK - FATİH VATAN MİGROS ÖNÜ,41.015906301,28.9401872,Gureba Hastanesi Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34093,Topkapı Mahallesi
+FENER YOLU CADDESİ UATD,40.972099601,29.0395555,Fener Kalamış Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Fenerbahçe Mahallesi
+EMRE AYDIN MESA TAKSİ DURAĞI,41.060370801,29.0700043,,Üsküdar,,İstanbul,Marmara Bölgesi,34684,Küçüksu Mahallesi
+SAKLIKENT ORTAKÖY TAKSİ,41.060783583,29.018410708,,Beşiktaş,,İstanbul,Marmara Bölgesi,34394,Levazım Mahallesi
+TEPEGÖZ SOKAK,40.974040501,29.055519,Tepegöz Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Göztepe Mahallesi
+UMUT TAKSİ DURAĞI,41.076792901,29.029993899,Arnavutköy Yolu,Beşiktaş,,İstanbul,Marmara Bölgesi,34337,Etiler Mahallesi
+ÇEBİ TAKSİ,40.9111,29.1699,Sakarya Sokağı,Kartal,,İstanbul,Marmara Bölgesi,34865,Cevizli Mahallesi
+KÜÇÜKÇEKMECE MEYDAN YONCA TAKSİ DURAĞI,40.9904543010001,28.7721201,,Küçükçekmece,,İstanbul,Marmara Bölgesi,34290,Fatih Mahallesi
+FINDIKLI MERKEZ TAKSİ DURAĞI,40.968591001,29.1224456,Topçu Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+AVCILAR 3 TAKSİ DURAĞI,40.9813758010001,28.7093713,Osman Paşa Caddesi,Avcılar,,İstanbul,Marmara Bölgesi,34310,
+METROPOL TAKSİ,41.0121,28.8854,Meşe Sokağı,Güngören,,İstanbul,Marmara Bölgesi,34173,Mehmet Nesih Özmen Mahallesi
+YENI LEVENT OYAK TAKSI DURAĞı,41.089899401,29.0100791990001,Ladin Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Konaklar Mahallesi
+SAHİL TAKSİ DURAĞI,40.8155049010001,29.3034823990001,Zeycan Sokağı,Tuzla,,İstanbul,Marmara Bölgesi,34940,Cami
+FİKRET KARABAĞ TAKSİ DURAĞI,40.987021401,28.790513101,,Bakırköy,,İstanbul,Marmara Bölgesi,34153,Şenlikköy Mahallesi
+ATALAR TAKSİ DURAĞI,40.8990704010001,29.1700578,Çanakkale Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34862,Atalar Mahallesi
+ADIGÜZEL SİTELER TAKSİ,40.9956,29.1423,Turgut Özal Bulvarı,Ataşehir,,İstanbul,Marmara Bölgesi,34779,Yenişehir Mahallesi
+BLOKLAR TAKSİ,41.064919597,28.9727346110001,Halit Ziya Türkkan Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34384,Kaptanpaşa Mahallesi
+EYÜP METRO TAKSİ,41.0342214,28.9207034,Osmangazi Caddesi,Eyüpsultan,,İstanbul,Marmara Bölgesi,34055,Topçular Mahallesi
+BİZİM TAKSİ,41.086799999,29.0765000010001,Cihan Sokağı,Beykoz,,İstanbul,Marmara Bölgesi,34810,Anadolu Hisarı Mahallesi
+ATAKENT 2.3 ETAP TAKSI,41.0555797010001,28.7918503,Kent Bulvarı,Küçükçekmece,,İstanbul,Marmara Bölgesi,34307,Atakent Mahallesi
+POLLCENTER TAKSİ DURAĞI,41.0796,29.0103,Ali Kaya Sokak,Şişli,,İstanbul,Marmara Bölgesi,34394,Esentepe Mahallesi
+KÖKNAR TAKSİ DURAĞI(GÖZDE TAKSİ),41.0068431010001,28.8217192,,Bahçelievler,,İstanbul,Marmara Bölgesi,34197,Yenibosna Merkez Mahallesi
+TANZİMAT TAKSİ DURAĞI,40.975064801,29.0672383,Akış Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34730,Göztepe Mahallesi
+YEREBATAN TAKSİ,41.0068779010001,28.981581701,İshakpaşa Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34122,Cankurtaran Mahallesi
+İSPARK SAİP MOLLA CAD. TAKSİ DURAĞI,41.1176999990001,29.0974,Sahip Molla Caddesi,Beykoz,,İstanbul,Marmara Bölgesi,34800,İncirköy Mahallesi
+AVCILAR MARMARA TAKSİ DURAĞI,40.983525753,28.7224317970001,Spor Sokağı,Avcılar,,İstanbul,Marmara Bölgesi,34310,Merkez Mahallesi
+Aksaray Taksi,41.0081999990001,28.9499000010001,Abdüllatifpaşa Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34096,Aksaray Mahallesi
+ÖZ ULUS TAKSİ II.,41.0647437010001,29.030402199,Öztopuz Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34340,
+MY WORD AĞAOĞLU TAKSİ,40.989153801,29.1039428,Ihlamur Bulvarı,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Barbaros Mahallesi
+İSPARK SU-İŞ CAD.TAKSİ,41.024900001,29.0866999990001,Alemdağ Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34764,Atatürk Mahallesi
+BULVAR TAKSİ DURAĞI,41.049337601,29.0760702,Bosna Bulvarı,Üsküdar,,İstanbul,Marmara Bölgesi,34680,Güzeltepe Mahallesi
+ÇAĞLAYAN TAKSİ,41.071538606,28.980024159,Vatan Caddesi,Kâğıthane,,İstanbul,Marmara Bölgesi,34403,Çağlayan Mahallesi
+EYÜP TAŞOCAĞI TAKSİ,41.060471201,28.9448743990001,Silahtarağa Caddesi,Eyüpsultan,,İstanbul,Marmara Bölgesi,34050,Merkez Mahallesi
+GÜNGÖREN ÖZMEN TELSİZ TAKSİ DURAĞI,41.016488101,28.889308199,Barış Sokağı,Güngören,,İstanbul,Marmara Bölgesi,34173,Mehmet Nesih Özmen Mahallesi
+BAĞCILAR DEVLET HASTANESİ TAKSİ DURAĞI,41.0299119,28.869402,,Bağcılar,,İstanbul,Marmara Bölgesi,34200,Merkez Mahallesi
+BATI ATAŞEHİR MERKEZ TAKSİ DURAĞI,40.9952860010001,29.1043912,Mor Menekşe Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Barbaros Mahallesi
+GÖZTEPE KAVŞAĞI(GÖZTEPE NİDA KULE KARŞISI) İŞ MERKEZİ KARŞISI,40.990399999,29.0755,Bora Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34732,Merdivenköy Mahallesi
+2.ULUS TURİZM TAKSİ DURAĞI(BEŞİKTAŞ TURİZM)),41.0714962010001,29.0290517,,Beşiktaş,,İstanbul,Marmara Bölgesi,34340,Nispetiye Mahallesi
+DİLAN TAKSİ-1,41.067399999,28.9945,Lati Lokum Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34346,
+SULTANAHMET İMRAN ÖKTEM SOKAK UMUMA AÇIK TAKSİ DURAĞI,41.0065802010001,28.9734303,İmran Öktem Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34400,Binbirdirek Mahallesi
+AKASYA TAKSİ DURAĞI,41.1108087010001,29.0160484,,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Maslak Mahallesi
+BAHÇELIEVLER DEVLET HASTANESI -1,41.0060022010001,28.8452535,Ordu Caddesi,Bahçelievler,,İstanbul,Marmara Bölgesi,34188,Kocasinan Merkez Mahallesi
+ATAKÖY TURİZM TAKSİ,40.9789491010001,28.8581347,,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 2-5-6. Kısım Mahallesi
+HİZMET TAKSİ,40.9619999990001,29.2156,Yakacık Caddesi,Sancaktepe,,İstanbul,Marmara Bölgesi,34885,Fatih Mahallesi
+VALİDEBAĞ TAKSİ DURAĞI,41.010041501,29.0419447,Atıfbey Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34662,Acıbadem
+BOĞAZİÇİ TAKSİ DURAĞI,41.0852052010001,29.0458178,Bodur Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34342,Bebek Mahallesi
+Özbal Taksi,41.062100001,29.0011,Vefa Deresi Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34394,Fulya Mahallesi
+KARTAL ÇAVUŞOĞLU TAKSİ DURAĞI,40.8897102010001,29.1967103,Kültür Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34873,Çavuşoğlu Mahallesi
+KAPTAN TAKSİ,40.970356205,29.084340061,,Kadıköy,,İstanbul,Marmara Bölgesi,34736,19 Mayıs Mahallesi
+DEPOSİTE(AVM)  TAKSİ DURAĞI,41.0723,28.8102,,Başakşehir,,İstanbul,Marmara Bölgesi,34490,İkitelli OSB Mahallesi
+İSPARK - EMİNÖNÜ  PERONLAR UMUMA AÇIK TAKSİ DURAĞI,41.018200001,28.97,Ragip Gümüşpala Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34116,Rüstempaşa Mahallesi
+İSPARK - BEYOĞLU CİHANGİR KATLI OTOPARK ÖNÜ,41.0318105010001,28.986169799,Cihangir Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34427,Cihangir
+"İSPARK ÇENGELKÖY YOLU, BOSNA BULVARI",41.047529517,29.0763975740001,Bosna Bulvarı,Üsküdar,,İstanbul,Marmara Bölgesi,34680,Bahçelievler Mahallesi
+İSPARK - BAKIRKÖY İSTANBUL CADDESİ,40.978389701,28.8747885,İstanbul Caddesi,Bakırköy,,İstanbul,Marmara Bölgesi,34142,Cevizlik Mahallesi
+3.LEVENT SEVGİ TAKSİ DURAĞI,41.0874120010001,29.0189222,Çilekli Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Levent Mahallesi
+AK TAKSİ,41.0554436680001,28.6683340290001,1655. Sokak,Esenyurt,,İstanbul,Marmara Bölgesi,34538,Koza Mahallesi
+AVCıLAR(6) ISPARTAKULE TAKSI,41.0625592010001,28.7145732,Abdi İpekçi Caddesi,Avcılar,,İstanbul,Marmara Bölgesi,34325,Tahtakale Mahallesi
+KÜÇÜKEV TAKSİ,41.121,29.036500001,Balaban Dere Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Darüşşafaka Mahallesi
+EMİNÖNÜ SAHİL TAKSİ DURAĞI,41.014837001,28.9760401990001,Muradiye Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34110,Hocapaşa Mahallesi
+YEŞİLKENT TAKSİ DURAĞI,41.006200001,28.6262,Yavuz Sultan Selim Bulvarı,Beylikdüzü,,İstanbul,Marmara Bölgesi,34528,Adnan Kahveci Mahallesi
+ALO TAKSİ DURAĞI,40.9578000010001,29.0768,Pembe Gül Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34740,Suadiye Mahallesi
+MARMARA ÜNV.EĞT.VE ARAŞ.HAST YENİ2,40.887599999,29.2631,Erzincan Caddesi,Pendik,,İstanbul,Marmara Bölgesi,34899,Fevzi Çakmak Mahallesi
+DURAK TAKSİ,41.081965301,28.9197843,Mustafa Kemal Bulvarı,Eyüpsultan,,İstanbul,Marmara Bölgesi,34065,Yeşilpınar Mahallesi
+HİLTON TAKSİ,40.985660529,29.0816627250001,Mümin Deresi Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34734,Sahrayıcedit Mahallesi
+ATAŞEHİR ŞİRİN TAKSİ DURAĞI,40.9978333010001,29.1090926,Ihlamur Bulvarı,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Barbaros Mahallesi
+ULUS VADİ TAKSİ,41.060799999,29.0247,Okul Yolu,Beşiktaş,,İstanbul,Marmara Bölgesi,34347,Ortaköy Mahallesi
+ÜSKÜDAR HAREM İDO İSKELE ÖNÜ,41.0105055010001,29.0108704,Üsküdar Harem Sahil Yolu,Üsküdar,,İstanbul,Marmara Bölgesi,34668,Selimiye Mahallesi
+ADAKENT TAKSİ DURAĞI,41.009902401,28.6567215,E-5 Yanyol,Esenyurt,,İstanbul,Marmara Bölgesi,34515,Mevlana Mahallesi
+NİŞANTAŞI ÜNİVERSİTESİ SADABAD KAMPÜSÜ,41.06998586,28.962044086,Eyüp Sultan Caddesi,Kâğıthane,,İstanbul,Marmara Bölgesi,34406,Merkez Mahallesi
+DİVAN TAKSİ,41.0248733760001,28.7734122310001,Namık Kemal Caddesi,Küçükçekmece,,İstanbul,Marmara Bölgesi,34303,İstasyon Mahallesi
+İSPARK UZUNÇAYIR,40.9989019010001,29.055661399,D100,Kadıköy,,İstanbul,Marmara Bölgesi,,Dumlupınar Mahallesi
+GAR TAKSİ DURAĞI YENİ-2,40.879899999,29.232,Hat Boyu Caddesi,Pendik,,İstanbul,Marmara Bölgesi,34890,Doğu Mahallesi
+ALKENT TAKSİ,41.0863630010001,29.0331104,Tepecik Yolu,Beşiktaş,,İstanbul,Marmara Bölgesi,34335,Etiler Mahallesi
+İSPARK - FATİH TCDD SİRKECİ GAR ÖNÜ,41.014837501,28.9761299,Vezir Camii Çıkmazı Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34110,Hocapaşa Mahallesi
+FENER YOLU TAKSI DURAĞı,40.977503901,29.0519991,Kortanpaşa Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34730,Göztepe Mahallesi
+MERKEZ EVLERİ,41.0101,28.9094,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34015,Merkezefendi Mahallesi
+Karaköy Yolcu Salonu Turizm Taksi,41.0233069400001,28.9776413010001,Maliye Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34420,Kemankeş Karamustafa Paşa
+EMNİYET TAKSİ,40.8458760560001,29.2994475730001,Genç Osman Caddesi,Tuzla,,İstanbul,Marmara Bölgesi,34944,Evliya Çelebi Mahallesi
+OPTİMUM AVM ÖNÜ,40.9882643060001,29.0852736890001,Karaman Çiftliği Yolu,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Yenisahra Mahallesi
+Teşvikiye Merkez Taksi,41.047333199,28.9971135850001,Hüsrev Gerede Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34365,Teşvikiye Mahallesi
+Kayışdağı Caddesi Umuma Açık,40.9754,29.1525,Çakmakçı Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34755,Kayışdağı Mahallesi
+CİHANGİR TAKSİ DURAĞI,41.0306,28.9842,Şimşirci Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34433,Kılıçali Paşa
+BİZİM TAKSİ,41.112942301,28.8025082,,Başakşehir,,İstanbul,Marmara Bölgesi,34480,Başak Mahallesi
+MARMARA LİMAN TAKSİ,40.9817055010001,28.67164,İhlas Caddesi,Beylikdüzü,,İstanbul,Marmara Bölgesi,34524,Marmara Mahallesi
+ALP TAKSİ,40.9683184290001,29.092007311,Şakacı Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34742,Kozyatağı Mahallesi
+İSPARK - ÜSKÜDAR İSKELE ÖNÜ,41.027471801,29.0156768,Paşalimanı Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34672,Mimar Sinan Mahallesi
+SOĞANLIK MERKEZ TAKSİ,40.917440346,29.2054436440001,Çınarcık Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34880,Gümüşpınar Mahallesi
+SARIYER KİREÇBURNU TAKSİ DURAĞI,41.1484765010001,29.045952,Mısır Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Kireçburnu Mahallesi
+ARNAVUTKÖY MERKEZ TAKSİ,41.186094289,28.7257090630001,,Arnavutköy,,İstanbul,Marmara Bölgesi,34283,Mustafa Kemal Paşa Mahallesi
+SÖĞÜTLÜ ÇEŞME UATD,40.9923876010001,29.0378340010001,Fahrettin Kerim Gökay Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,,Hasanpaşa Mahallesi
+İNTERNATIONAL HOSPITAL TAKSI,40.959642101,28.8352439,Karanfil Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34149,Yeşilköy Mahallesi
+İSPARK İSKELE,41.0413988010001,29.0076888,Çiğdem Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34353,
+OSMANİYE TAKSİ DURAĞI,40.9922000010001,28.8816,Bildik Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34146,Osmaniye Mahallesi
+İSPARK ZEYNEP KAMİL,41.015070801,29.0249279010001,Doktor Burhanettin Üstünel Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34668,Zeynep Kamil Mahallesi
+ALBATROS TAKSİ DURAĞI,41.0109727010001,28.6004614,,Büyükçekmece,,İstanbul,Marmara Bölgesi,34500,Atatürk Mahallesi
+Nurtepe Taksi-1,41.0758,28.9587,,Kâğıthane,,İstanbul,Marmara Bölgesi,34406,Nurtepe Mahallesi
+GEÇİT TAKSİ DURAĞI,41.020875668,28.5818745990001,Londra Asfaltı,Büyükçekmece,,İstanbul,Marmara Bölgesi,34500,19 Mayıs Mahallesi
+MALTEPE 2574 ADA 53 PARSEL ÖNÜ,40.9522076,29.119949214,,Maltepe,,İstanbul,Marmara Bölgesi,34854,Aydınevler Mahallesi
+TOPSELVİ MERKEZ TAKSİ,40.8901000010001,29.2183,Balkan Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34873,
+ZORLU CENTER TAKSİ,41.0678280430001,29.016272723,Koru Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34340,Levazım Mahallesi
+ŞEN TAKSİ DURAĞI,40.964787201,29.0990763,Kozyatağı Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34742,Kozyatağı Mahallesi
+İSPARK - PENDİK İDO İSKELE ÖNÜ,40.875426901,29.2360808,Sahil Bulvarı,Pendik,,İstanbul,Marmara Bölgesi,34890,Batı Mahallesi
+MAT CENTER,41.062809961,28.848423756,Matbaacılar 3. Cadde,Bağcılar,,İstanbul,Marmara Bölgesi,34218,100. Yıl Mahallesi
+ZİVERBEY TAKSİ,40.987199999,29.0411999990001,Yıldız Rona Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34724,Zühtüpaşa Mahallesi
+Kanyon Taksi - 1,41.0783,29.0087000010001,Ecza Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34394,Esentepe Mahallesi
+SOYAK TAKSİ DURAĞI,40.9963683010001,29.0702644,Ünalan Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34700,Ünalan Mahallesi
+AĞAOĞLU İSTANBUL TAKSİ,41.0654663010001,28.7765678910001,O-3 Güney Yanyolu,Başakşehir,,İstanbul,Marmara Bölgesi,34490,Ziya Gökalp Mahallesi
+KUŞDİLİ CADDESİ UATD,40.9898176,29.0305498,Kuşdili Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34714,Osmanağa Mahallesi
+OSMANİYE BAKIRKÖY ÖZEL TAKSİ,40.9965783010001,28.882202,,Bakırköy,,İstanbul,Marmara Bölgesi,34146,Osmaniye Mahallesi
+KABATAŞ İDO İSKELESİ UATD,41.033537601,28.9920855,,Beyoğlu,,İstanbul,Marmara Bölgesi,34427,Ömer Avni
+ALİ DEDE CAD.MEDİPOL HASTANESİ YANI,41.0047999990001,29.0348,Alidede Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34718,Koşuyolu Mahallesi
+KADIRGA TAKSİ,41.0053,28.9694,Piyer Loti Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34126,Emin Sinan Mahallesi
+İHLAS İKİ KENT TAKSİ,40.9844,28.6576,Yeşilyurt Caddesi,Beylikdüzü,,İstanbul,Marmara Bölgesi,34520,Kavaklı Mahallesi
+SULTANAHMET İSHAKPAŞA CADDESİ UATD TALEBİ,41.0080414010001,28.9813658,İshakpaşa Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34122,Cankurtaran Mahallesi
+İSPARK ŞİŞLİ,41.061333301,28.9873691,Abide-i Hürriyet Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34384,Merkez Mahallesi
+Merkez Taksi durağı,41.0742790840001,28.246829582,Hacı Pervane Çeşme Sokağı,Silivri,,İstanbul,Marmara Bölgesi,34570,Piri Mehmet Paşa Mahallesi
+EYÜP DEVLET HASTANESİ-1,41.057587701,28.941354801,Basmacı Abdi Efendi Sokağı,Eyüpsultan,,İstanbul,Marmara Bölgesi,34050,Merkez Mahallesi
+GAR TAKSİ,40.8299,29.3212,Hatboyu Caddesi,Tuzla,,İstanbul,Marmara Bölgesi,34940,Istasyon
+PENDİK KÖYÜ KIZILYERLER TAKSİ DURAĞI,40.8691,29.2728,Anafartalar Sokak,Pendik,,İstanbul,Marmara Bölgesi,34899,Çamçeşme Mahallesi
+BOSTANCI METRO DURAĞI-1,40.9648,29.103,Şebnem Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34742,Kozyatağı Mahallesi
+ALTINYILDIZ TAKSİ DURAĞI,41.0161915,28.652222,1982. Sokak,Esenyurt,,İstanbul,Marmara Bölgesi,34515,Cumhuriyet Mahallesi
+FLORYA FLYİNN TAKSİ DURAĞI,40.9717398010001,28.8036681,Çatal Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34153,Şenlikköy Mahallesi
+EVRENTUR,40.9671353900001,29.0630258040001,Ressam Vecihi Bereketoğlu Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34728,Caddebostan Mahallesi
+İSPARK SUİŞ,41.024969001,29.086596,Alemdağ Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34764,Atatürk Mahallesi
+ATABİRLİK TAKSİ,40.9752999990001,28.8723,Ekrembey Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34140,Zeytinlik Mahallesi
+ÇEVİK TAKSİ,41.0556000010001,29.0174000010001,Mustafa İzzet Efendi Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34347,Mecidiye Mahallesi
+KOŞU YOLU BARBOROS TAKSİ DURAĞI,41.0120181010001,29.0367713,,Kadıköy,,İstanbul,Marmara Bölgesi,34662,Koşuyolu Mahallesi
+Pera Taksi,41.031267003,28.974206376,Meşrutiyet Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34430,Asmalı Mescit
+TUZLA İSTASYON TAKSİ,40.828060701,29.3210715,Gönen Sokağı,Tuzla,,İstanbul,Marmara Bölgesi,34940,Istasyon
+BEŞİKTAŞ CONRAD ÖNÜ TAKSİ DURAĞI,41.0465313010001,29.0086193,Saray Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34353,Cihannüma Mahallesi
+İSPARK SÖĞÜTLÜ ÇEŞME METROBÜS,40.9918314010001,29.0376893,Metrobüs,Kadıköy,,İstanbul,Marmara Bölgesi,34722,Hasanpaşa Mahallesi
+İSPARK GÜNGÖREN,41.004276401,28.8899654,Şair Ahmet Kutsi Tecer Caddesi,Güngören,,İstanbul,Marmara Bölgesi,34173,Abdurrahman Nafiz Gürman Mahallesi
+DEPO TAKSİ,40.9882,28.9049,50/1. Sokak,Zeytinburnu,,İstanbul,Marmara Bölgesi,34020,Yenidoğan Mahallesi
+SULTANAHMET DALBASTI SOKAK UATD  DURAĞI,41.0062808010001,28.9789914,Seyit Hasan Sokağı,Fatih,,İstanbul,Marmara Bölgesi,34122,Cankurtaran Mahallesi
+TÜRKİYE HASTANESİ TAKSİ DURAĞI,41.0670648010001,28.9813903,,Şişli,,İstanbul,Marmara Bölgesi,34384,Merkez Mahallesi
+KAVACIK PLAZA TAKSİ,41.109780174,29.113170542,Karadut Sokağı,Beykoz,,İstanbul,Marmara Bölgesi,34800,Soğuksu Mahallesi
+BAKIRKÖY MEYDAN TAKSİ,40.981174201,28.8732593,Cumhuriyet Meydanı,Bakırköy,,İstanbul,Marmara Bölgesi,34147,Zuhuratbaba Mahallesi
+YILDIRIM PARK TAKSİ DURAĞI,41.0656390010001,28.89327,Mucahit Sokağı,Bayrampaşa,,İstanbul,Marmara Bölgesi,34045,Yıldırım Mahallesi
+OLİVİUM OUTLET CENTER TAKSİ,40.9959543800001,28.9102165080001,Prof. Dr. Muammer Aksoy Caddesi,Zeytinburnu,,İstanbul,Marmara Bölgesi,34020,Beştelsiz Mahallesi
+ÖZEL EMSEY HASTANESİ ÖNÜ UMUMA AÇIK TAKSİ DURAĞI,40.9245078220001,29.2896815400001,Selçuklu Caddesi,Pendik,,İstanbul,Marmara Bölgesi,34912,Çamlık Mahallesi
+SİLİVRİ OTOGAR TAKSİ DURAĞI,41.0721000010001,28.2634,Albay Yunus Dirik Caddesi,Silivri,,İstanbul,Marmara Bölgesi,34570,Alibey Mahallesi
+KÖŞK TAKSİ IHLAMUR,41.087554201,29.0142327,Faruk Nafiz Çamlıbel Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Konaklar Mahallesi
+TEPEBAŞI TAKSİ 1,41.0309707540001,28.974380866,Oteller Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34430,Asmalı Mescit
+KOÇ TAKSİ,41.0227228190001,28.918911113,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34010,Maltepe Mahallesi
+SEÇKİNLER TAKSİ,41.0973015010001,28.876013,Ahmet Yesevi Caddesi,Sultangazi,,İstanbul,Marmara Bölgesi,34265,50. Yıl Mahallesi
+İSTANBUL EVLERİ TAKSİ DURAĞI,41.0034593010001,28.8738314,Bozkır Sokağı,Bahçelievler,,İstanbul,Marmara Bölgesi,34180,
+ÖZ TAKSİ DURAĞI,41.0021790010001,28.9132962,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34020,Kazlıçeşme Mahallesi
+MEGA TAKSI,41.0591413010001,28.842366699,,Bağcılar,,İstanbul,Marmara Bölgesi,34218,Göztepe Mahallesi
+ÖZ KÜLTÜR TAKSİ,41.075107233,29.0377707970001,,Beşiktaş,,İstanbul,Marmara Bölgesi,34342,Bebek Mahallesi
+KULE TAKSİ DURAĞI,40.9954581010001,28.9263733,İmrahor İlyasbey Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34098,Yedikule Mahallesi
+FENER KALAMIŞ YOLU TAKSİ,40.9693,29.0373000010001,Turyolu Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Fenerbahçe Mahallesi
+GÜVEN TAKSİ DURAĞI,40.9345999990001,29.2154,Neslişah Sokağı,Kartal,,İstanbul,Marmara Bölgesi,34882,Uğur Mumcu Mahallesi
+MEVLANA TAKSİ DURAĞI,41.0859999990001,28.915,Sefa Caddesi,Gaziosmanpaşa,,İstanbul,Marmara Bölgesi,34255,Mevlana Mahallesi
+NUR TAKSİ,40.9706615270001,29.0426949480001,Cephanelik Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Fenerbahçe Mahallesi
+HASEKİ HASTANE TAKSİ,41.009078414,28.9434067610001,Haseki Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34096,Haseki Sultan Mahallesi
+BÜYÜKÇEKMECE HASTANE TAKSİ,41.0172060240001,28.5568555680001,Çizmeci Sokak,Büyükçekmece,,İstanbul,Marmara Bölgesi,34535,Mimarsinan Mahallesi
+FISTIKAĞACI TAKSİ DURAĞI,41.0284353010001,29.0303341,Yapmabebek Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34674,İcadiye Mahallesi
+OPERATÖR CEMİL TOPUZLU CADDESİ UATD  TALEBİ,40.963764401,29.0653573,Operatör Cemil Topuzlu Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34728,Caddebostan Mahallesi
+DURU TAKSİ DURAĞI,40.9175000010001,29.1708,Mustafa Kemal Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34890,Cevizli Mahallesi
+İSPARK gençtürk cad.,41.0114775550001,28.9553769410001,Gençtürk Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34134,Kemalpaşa Mahallesi
+KAĞITHANE MERKEZ TAKSİ DURAĞI,41.081972201,28.971073399,,Kâğıthane,,İstanbul,Marmara Bölgesi,34406,Merkez Mahallesi
+KAYA TAKSİ,40.9583184540001,29.1068159120001,Bahçelerarası Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+ZİNCİRLİKUYU THE GREEN TAKSİ,41.07177126,29.014203036,Kore Şehitleri Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34394,Esentepe Mahallesi
+MEGA 2 (ADLİYE ESKİ ADI) TAKSİ BAĞCILAR,41.0631550080001,28.8290109440001,2549. Sokak,Bağcılar,,İstanbul,Marmara Bölgesi,34218,Mahmutbey Mahallesi
+ŞİŞLİ MERKEZ TAKSİ,41.058053231,28.982125071,Feriköy Fırın Sokağı,Şişli,,İstanbul,Marmara Bölgesi,34384,Merkez Mahallesi
+İSPARK - BEŞİKTAŞ DARPHANE,41.059851001,29.007434399,Menekşe Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34349,Gayrettepe Mahallesi
+OPTİMUM AVM ÖNÜ,40.988107401,29.0857664,Karaman Çiftliği Yolu,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Yenisahra Mahallesi
+NET TAKSİ DURAĞI,41.0496512010001,29.054218701,Albay Hüsamettin Ertürk Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34680,Çengelköy Mahallesi
+Boğazköy Taksi,41.0713999990001,28.6662,,Başakşehir,,İstanbul,Marmara Bölgesi,34488,Bahçeşehir 2. Kısım Mahallesi
+MARMARA TIP FAKÜLTESİ TAKSİ DURAĞI,40.925251501,29.1338425,Çam Sokağı,Maltepe,,İstanbul,Marmara Bölgesi,34844,Bağlarbaşı Mahallesi
+BÜYÜKÇEKMECE MERKEZ TAKSİ DURAĞI,41.020514001,28.5788682,Enverpaşa Caddesi,Büyükçekmece,,İstanbul,Marmara Bölgesi,34500,Dizdariye Mahallesi
+AÇELYA TAKSİ,41.0388999990001,28.782200001,,Küçükçekmece,,İstanbul,Marmara Bölgesi,34307,Halkalı Merkez Mahallesi
+HASTANE ACİL TAKSİ-1,41.1105,29.0203,,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Maslak Mahallesi
+YEŞİLTEPE TAKSİ DURAĞI,40.9943240010001,28.9018555,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34025,Yeşiltepe Mahallesi
+BEYKENT TAKSİ (2),41.0178549240001,28.6265372390001,Şafak Sokağı,Büyükçekmece,,İstanbul,Marmara Bölgesi,34500,Cumhuriyet Mahallesi
+İSPARK BURHAN FELEK CAD. TAKSİ,41.0024999990001,29.018699999,Burhan Felek Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34668,Selimiye Mahallesi
+FANTASTIC TAKSI DURAĞı,41.0715544010001,29.006693999,Zincirlidere Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34394,Esentepe Mahallesi
+VADİ TAKSİ,41.103665001,28.807526,Yunus Emre Caddesi,Başakşehir,,İstanbul,Marmara Bölgesi,34480,Başak Mahallesi
+Denizatı Kent Taksi Durağı,40.987,28.8921,,Zeytinburnu,,İstanbul,Marmara Bölgesi,34025,Sümer Mahallesi
+BEYOĞLU ATIF YILMAZ CAD.,41.036152901,28.9799548,Halas Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34435,Hüseyinağa
+CEVİZLİ İSTASYON,40.9106667990001,29.1558388400001,Üsküdar Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34846,Orhantepe Mahallesi
+CAPACİTY TAKSİ,40.9777902010001,28.8724358,Fişekhane Caddesi,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 1. Kısım Mahallesi
+EVREN TAKSİ DURAĞI,41.032011401,28.8174,Cami Yolu Caddesi,Bağcılar,,İstanbul,Marmara Bölgesi,34212,15 Temmuz Mahallesi
+GÜRPINAR MERKEZ TAKSİ DURAĞI,40.9918140010001,28.614068199,,Beylikdüzü,,İstanbul,Marmara Bölgesi,34528,Adnan Kahveci Mahallesi
+YENİ KAPI İDO TAKSİ DURAĞI,41.003495001,28.9566604,Kennedy Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34130,Katip Kasım Mahallesi
+İSPARK SÖĞÜTLÜÇEŞME,40.9909455010001,29.0273323,Söğütlüçeşme Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34714,Osmanağa Mahallesi
+ALKENT TAKSİ,41.08635443,28.62879889,Hadımköy - İstanbul Caddesi,Büyükçekmece,,İstanbul,Marmara Bölgesi,34522,Alkent 2000 Mahallesi
+MİMARSİNAN BİRLİK TAKSİ,41.008139445,28.5397666,Hürriyet Caddesi,Büyükçekmece,,İstanbul,Marmara Bölgesi,34535,Ekinoba Mahallesi
+İSPARK CEVİZLİBAĞ,41.016977528,28.910773767,Yedikule Çırpıcı Yol Sokağı,Zeytinburnu,,İstanbul,Marmara Bölgesi,34010,Maltepe Mahallesi
+KALAMIŞ OKUL TAKSİ DURAĞI,40.9752502010001,29.0406825,Münir Nürettin Selçuk Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Fenerbahçe Mahallesi
+ŞEHREMİNNİ TAKSİ DURAĞI,41.0166651010001,28.9309784,Tatlı Pınar Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34093,Topkapı Mahallesi
+Gardenya,41.024700001,28.825299999,49. Sokak,Bağcılar,,İstanbul,Marmara Bölgesi,34212,Bağlar Mahallesi
+İSPARK - ŞİŞLİ MECİDİYEKÖY ORTAKLAR CADDESİ,41.0652698010001,28.9958903,Ortaklar Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34346,Fulya Mahallesi
+İNÖNÜ MERKEZ TAKSİ,40.978145012,29.1419498600001,,Ataşehir,,İstanbul,Marmara Bölgesi,34755,İnönü Mahallesi
+BOSTANCI İDO UMUMA AÇIK TAKSİ DURAĞI,40.9526,29.093899999,Çetin Emeç Bulvarı,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+KARDEŞLER TAKSİ,41.0282577040001,28.658021519,2073. Sokak,Esenyurt,,İstanbul,Marmara Bölgesi,34515,Yeşilkent Mahallesi
+AKATLAR TAKSİ,41.078199999,29.0276,Selçuklar Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34335,Akat Mahallesi
+HAS TAKSİ,40.984250741,29.128246543,Prof. Dr. Hıfzı Özcan Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34750,Küçükbakkalköy Mahallesi
+HAYDARPAŞA TAKSİ DURAĞI,40.996475801,29.0200128,Tren Garı Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34716,Rasimpaşa Mahallesi
+BEŞİKTAŞ SARAY TAKSİ DURAĞI,41.0593412010001,29.0049863,Ayazmadere Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34349,Gayrettepe Mahallesi
+İSPARK KARTAL HÜRRİYET CAD.,40.8892122010001,29.1866517,Hürriyet Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34860,Kordonboyu Mahallesi
+217.SOKAK NO:1 T.ÖZAL BULVARI,41.0479,29.2470000010001,Saray Caddesi,Çekmeköy,,İstanbul,Marmara Bölgesi,34794,Çatalmeşe Mahallesi
+AYDINLI KÖYÜ TAKSİ DURAĞI,40.871586601,29.3317078,Dersaadet Caddesi,Tuzla,,İstanbul,Marmara Bölgesi,34953,Aydınlı
+YENİDOĞAN MERKEZ TAKSİ DURAĞI,41.007935601,29.2412669,,Sancaktepe,,İstanbul,Marmara Bölgesi,34791,Merve Mahallesi
+ALTUNİZADE ÜSKÜDAR,41.021315401,29.0392347,Mahir İz Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34662,Altunizade Mahallesi
+SARIYER GAZETECİLER SİTESİ TAKSİ DURAĞI,41.1225355010001,29.03159,,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Darüşşafaka Mahallesi
+SOĞANLIK METRO DURAĞI,40.9125413450001,29.193672023,Atatürk Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34880,Soğanlık Yeni Mahallesi
+CUMHURİYET TAKSİ DURAĞI,41.0160000010001,28.652,Hürriyet Caddesi,Esenyurt,,İstanbul,Marmara Bölgesi,34515,Mevlana Mahallesi
+HÜR TAKSİ,41.04148601,28.813284975,Gülbahar Caddesi,Bağcılar,,İstanbul,Marmara Bölgesi,34212,15 Temmuz Mahallesi
+CİTYS NİŞANTAŞI AVM  TAKSİ,41.051087329,28.9932254920001,Teşvikiye Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34365,Teşvikiye Mahallesi
+KUZGUNCUK TAKSİ,41.0363,29.0296,İcadiye Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34674,Kuzguncuk Mahallesi
+ÖZ VALİDE ÇEŞME TAKSİ,41.04323529,28.9982067870001,Maçka Meydanı Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34357,Vişnezade Mahallesi
+UMUMA AÇIK,41.056099999,28.7608,221. Sokak,Küçükçekmece,,İstanbul,Marmara Bölgesi,34303,Atakent Mahallesi
+2.ULUS MERKEZ TAKSİ,41.070029,29.0268246,Metehan Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34340,Nispetiye Mahallesi
+GÖZTEPE MEDİKAL PARK TELSİZ TAKSİ DURAĞI,40.9903926010001,29.0780035010001,Nisan Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34732,Merdivenköy Mahallesi
+ÜSKÜDAR BADEM TAKSİ,41.006605001,29.0507989990001,Başöğretmen Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34660,Acıbadem Mahallesi
+SOYAK SİTE TAKSİ,40.999713968,29.073960501,Libadiye Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34704,Fetih Mahallesi
+İSPARK ATAŞEHİR,40.9920720010001,29.1269396,Turgut Özal Bulvarı,Ataşehir,,İstanbul,Marmara Bölgesi,34758,Atatürk Mahallesi
+VENEZİA  MEGA OUTLET TAKSİ,41.0790821080001,28.877072964,Eski Edirne Asfaltı,Gaziosmanpaşa,,İstanbul,Marmara Bölgesi,34250,Karadeniz Mahallesi
+GÜRSEL MERKEZ TAKSİ,41.0674943010001,28.9743282,Tonoz Sk 1,Kâğıthane,,İstanbul,Marmara Bölgesi,34385,Gürsel Mahallesi
+GÜVEN TAKSİ -2-,41.054400001,28.9817,Ergenekon Caddesi,Şişli,,İstanbul,Marmara Bölgesi,34380,
+SEYRANTEPE MERKEZ TAKSİ DURAĞI,41.0991392010001,28.9952118,,Kâğıthane,,İstanbul,Marmara Bölgesi,34398,Seyrantepe Mahallesi
+LİV TAKSİ,41.061261131,29.0284255490001,Canan Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34347,Ortaköy Mahallesi
+İSPARK - MALTEPE İDO İSKELESİ,40.918636001,29.128276301,Turgut Özal Bulvarı,Maltepe,,İstanbul,Marmara Bölgesi,34844,Yalı Mahallesi
+CEBECİ MERKEZ TAKSİ,41.1097,28.8658999990001,2542. Sokak,Sultangazi,,İstanbul,Marmara Bölgesi,34270,Cebeci Mahallesi
+ATAŞEHİR SİTE TAKSİ DURAĞI,40.9894909010001,29.152805399,Mevlana Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34779,Mevlana Mahallesi
+AYDINEVLER  MERKEZ TAKSİ,40.9494612490001,29.123793446,Selçukbey Caddesi,Maltepe,,İstanbul,Marmara Bölgesi,34854,Aydınevler Mahallesi
+BOSTANCI METRO DURAĞI-4,40.9629,29.1063999990001,,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+BAĞLARBAŞI TAKSİ DURAĞI,41.0645676010001,28.9145685,Akıncılar Sokağı,Gaziosmanpaşa,,İstanbul,Marmara Bölgesi,34245,Bağlarbaşı Mahallesi
+İSPARK KABATAŞ İDO,41.0347150010001,28.9932591,,Beyoğlu,,İstanbul,Marmara Bölgesi,34427,Ömer Avni
+SAHİL TAKSİ 1,41.0215732570001,28.5834606490001,Rıza Küçükoğlupaşa Caddesi,Büyükçekmece,,İstanbul,Marmara Bölgesi,34500,Fatih Mahallesi
+ASLANTEPE TAKSİ,41.1023186780001,28.998176577,,Sarıyer,,İstanbul,Marmara Bölgesi,34485,Huzur Mahallesi
+İSTANBUL ADALET SARAYI TAKSİ,41.0779,28.9788,,Kâğıthane,,İstanbul,Marmara Bölgesi,34403,Çağlayan Mahallesi
+ÖZ ORTAKÖY TAKSİ,41.0504435010001,29.0261927,Gürcükızı Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34347,Ortaköy Mahallesi
+BARBOROS TAKSİ DURAĞI,41.0431480010001,29.0068154,Barbaros Bulvarı,Beşiktaş,,İstanbul,Marmara Bölgesi,34022,Cihannüma Mahallesi
+MANOLYA TAKSİ,41.053178501,29.0063620990001,,Beşiktaş,,İstanbul,Marmara Bölgesi,34349,
+GAZİOSMANPAŞA DEVLET HASTANESİ TAKSİ,41.087522371,28.898827227,621. Sokak,Gaziosmanpaşa,,İstanbul,Marmara Bölgesi,34255,Karayolları Mahallesi
+SS.124 NOLU DÖRTYOL TAKSİ DURAĞI,40.9077,29.2118,Güzelgün Sokak,Kartal,,İstanbul,Marmara Bölgesi,34880,Orta Mahallesi
+Çınar Taksi,41.0787,29.0452,,Beşiktaş,,İstanbul,Marmara Bölgesi,34342,Bebek Mahallesi
+PENDİK MERKEZ TAKSİ DURAĞI,40.8763918010001,29.2352404,Erol Kaya Caddesi,Pendik,,İstanbul,Marmara Bölgesi,34890,Doğu Mahallesi
+EMİNÖNÜ İETT DURAKLARI,41.0180432010001,28.9706519,Eminönü Meydanı,Fatih,,İstanbul,Marmara Bölgesi,34116,Rüstempaşa Mahallesi
+FLORA TAKSİ,40.9809835020001,29.1033673320001,Defne Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34750,Küçükbakkalköy Mahallesi
+ATAKENT TAKSİ 1,40.9796273900001,28.8483459760001,,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 7-8-9-10. Kısım Mahallesi
+KADIKÖY METRO TAKSİ,40.990640865,29.0234183260001,Muvakkıthane Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34710,Caferağa Mahallesi
+BAKIRKÖY METRO DURAĞI,40.9966,28.8742,Olgunlar Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34146,Osmaniye Mahallesi
+İSPARK-BEYOĞLU,41.0362628010001,28.9867426,Dünya Sağlık Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34437,Gümüşsuyu
+İstanbul EvleriTaksi 1,41.0035999990001,28.8738,Bozkır Sokağı,Bahçelievler,,İstanbul,Marmara Bölgesi,34180,
+212 TAKSİ,41.0479000010001,28.8102999990001,Taşocağı Yolu Caddesi,Bağcılar,,İstanbul,Marmara Bölgesi,34218,Mahmutbey Mahallesi
+AIRPORT TAKSİ DURAĞI,40.992023401,28.8315242,,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 7-8-9-10. Kısım Mahallesi
+FINDIKZADE TELE TAKSİ,41.0094210010001,28.9379332,Cevdet Paşa Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34096,Haseki Sultan Mahallesi
+ÇAVUŞOĞLU TAKSİ DURAĞI,41.073042501,29.0282039,Ahmet Adnan Saygun Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34340,Kültür Mahallesi
+KANLICA TAKSİ DURAĞI,41.0994496440001,29.0659855430001,Piri Reis Caddesi,Beykoz,,İstanbul,Marmara Bölgesi,34805,Kanlıca Mahallesi
+TARABYA TAKSİ,41.137272749,29.0521452580001,Tarabya Bayırı Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Tarabya Mahallesi
+ALTIN TAKSİ DURAĞI,41.0407630010001,28.9039553,Yahya Kemal Caddesi,Bayrampaşa,,İstanbul,Marmara Bölgesi,34035,Altıntepsi Mahallesi
+CROWN PLAZA HOTEL TAKSİ,41.010217663,28.957355276,Fethibey Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34134,Kemalpaşa Mahallesi
+İSPARK ÜSKÜDAR ACIBADEM CADDESİ,41.002828627,29.0428293480001,Acıbadem Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34718,Acıbadem
+AS TAKSİ DURAĞI,40.9606941010001,29.0782309,Mücahit Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34740,Suadiye Mahallesi
+KAZASKER TAKSİ DURAĞI,40.9710344010001,29.0863561990001,Sinan Ercan Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34736,19 Mayıs Mahallesi
+ÇAMLICA TURİZM TAKSİ DURAĞI,41.0221991010001,29.063878001,Minare sokak,Üsküdar,,İstanbul,Marmara Bölgesi,34692,Kısıklı Mahallesi
+İSPARK - SARIYER İSTİNYE İDO ÖNÜ,41.1136144010001,29.060527,,Sarıyer,,İstanbul,Marmara Bölgesi,34460,İstinye Mahallesi
+YILDIZ TAKSİ,41.0506,29.0071999990001,Ihlamur Yıldız Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34022,Abbasağa Mahallesi
+Göktürk Merkez Taksi-3,41.1883,28.8751999990001,İstanbul Caddesi,Eyüpsultan,,İstanbul,Marmara Bölgesi,34077,Göktürk Merkez Mahallesi
+ESMAN TAKSİ,40.9955,29.1006,Kızıl Begonya Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Barbaros Mahallesi
+ACIBADEM YILDIZ TAKSİ,41.0124999990001,29.0569,Eczacı Necip Akar Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34660,Acıbadem Mahallesi
+PENDİK DİVAN TAKSİ DURAĞI,40.8707,29.2747,Hakan Sokağı,Pendik,,İstanbul,Marmara Bölgesi,34899,Çamçeşme Mahallesi
+YENİŞEHİR MERKEZ TAKSİ,40.927643883,29.307294805,Mustafa Akyol Sokağı,Pendik,,İstanbul,Marmara Bölgesi,34912,Yenişehir Mahallesi
+EYÜP BULVAR TAKSİİ DURAĞI,41.0463659010001,28.9326196,Hz. Halid Bulvarı,Eyüpsultan,,İstanbul,Marmara Bölgesi,34050,İslambey Mahallesi
+MALTEPE SAHİL TAKSİ,40.9264,29.1234,Turgut Özal Bulvarı,Maltepe,,İstanbul,Marmara Bölgesi,34844,Yalı Mahallesi
+SELİMPAŞA DURAK TAKSİ,41.056453301,28.3675173,,Silivri,,İstanbul,Marmara Bölgesi,34590,Selimpaşa Mahallesi
+GÜVEN TAKSİ,41.0338890950001,28.861827868,843. Sokak,Bağcılar,,İstanbul,Marmara Bölgesi,34200,Çınar Mahallesi
+MARTI DURAĞI YONCA EVLERİ 1,41.1946368010001,29.0536371,Tatar Sokak,Sarıyer,,İstanbul,Marmara Bölgesi,34450,Zekeriyaköy Mahallesi
+Ünalan Metro Durağı,40.997899999,29.0604999990001,Baraj Yolu Alt Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34700,Ünalan Mahallesi
+İSPARK YENİKAPI İDO,41.003509401,28.9567522,Avrasya Tüneli,Fatih,,İstanbul,Marmara Bölgesi,34130,Nişanca Mahallesi
+EMİRGAN TAKSİ DURAĞI,41.1040412,29.052505,Kestsane Sokağı,Sarıyer,,İstanbul,Marmara Bölgesi,34467,Emirgan Mahallesi
+BUYAKA TAKSİ DURAĞI,41.027481445,29.1247599880001,Balkan Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34771,Fatih Sultan Mehmet Mahallesi
+TUZLA AYDINLI SİTE TAKSİ,40.8683289740001,29.317777769,Aksoy Sk.,Tuzla,,İstanbul,Marmara Bölgesi,34953,Aydınlı
+BEYLİKDÜZÜ İSTANBUL EVLERİ SİTESİ TAKSİ DURAĞI,41.0207,28.6483,460. Sokak,Esenyurt,,İstanbul,Marmara Bölgesi,34521,Piri Reis Mahallesi
+ÇAYIR TAKSİ DURAĞI,41.0145248010001,29.0849075,Bağlariçi Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34696,Bulgurlu Mahallesi
+SANTRAL TAKSİ DURAĞI-2,40.9737,29.069899999,Ömerpaşa Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34738,Erenköy Mahallesi
+SAKIZAĞACI TAKSİ-1,41.0362,28.9801,Halas Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34435,Hüseyinağa
+CİHAN TAKSİ DURAĞI,41.0627716010001,29.0041422,Cemil Aslan Güder Sokak,Beşiktaş,,İstanbul,Marmara Bölgesi,34349,Gayrettepe Mahallesi
+ESENLER KAZIM KARABEKİR OTOBÜS DURAĞI MEVKİİ TAKSİ (ESENLER ÇEVRE TAKSİ),41.0482230010001,28.875239999,Mehmet Akif Ersoy Caddesi,Esenler,,İstanbul,Marmara Bölgesi,34225,Kazım Karabekir Mahallesi
+ÖNER TAKSİ DURAĞI,41.0595364010001,29.0147112,,Beşiktaş,,İstanbul,Marmara Bölgesi,34394,Balmumcu Mahallesi
+ÇINAR SOKAK UATD  YERİ,41.085289001,29.0090344,Selvili Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Konaklar Mahallesi
+SEKMEN TAKSİ DURAĞI,40.9184068010001,29.225189,Kartal Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34876,Yakacık Çarşı Mahallesi
+TİBAL TAKSİ,41.0010046250001,29.0380558800001,Lise Yolu Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34718,Acıbadem
+MECLİSİ MEBUSAN CADDESİ UATD,41.031736601,28.9890215,Mebusan Yokuşu,Beyoğlu,,İstanbul,Marmara Bölgesi,34437,Pürtelaş Hasan Efendi
+Denizköşkler Taksi,40.9738,28.7311,Dr. Sadık Ahmet Caddesi,Avcılar,,İstanbul,Marmara Bölgesi,34315,Denizköşkler Mahallesi
+KÜPLÜCE TAKSİ DURAĞI,41.0389554010001,29.0544629,Mehmet Akif Ersoy Caddesi,Üsküdar,,İstanbul,Marmara Bölgesi,34682,Kirazlıtepe Mahallesi
+ARNAVUTKÖY HADIMKÖY MERKEZ TAKSİ,41.1561664320001,28.6240129350001,,Arnavutköy,,İstanbul,Marmara Bölgesi,34555,Hadımköy Mahallesi
+HASANPAŞA TAKSİ DURAĞI,40.9724879010001,29.248112599,Fatih Bulvarı,Sultanbeyli,,İstanbul,Marmara Bölgesi,34920,Hasanpaşa Mahallesi
+Haznedar,41.006637099,28.869310258,,Bahçelievler,,İstanbul,Marmara Bölgesi,34180,
+İSPARK DUMLUPINAR,40.9924999990001,28.8376,Dumlupınar Caddesi,Bahçelievler,,İstanbul,Marmara Bölgesi,,Zafer Mahallesi
+TEPE NAUTİLUS TAKSİ,41.001574588,29.0314893230001,,Kadıköy,,İstanbul,Marmara Bölgesi,34718,Acıbadem
+POL TAKSİ DURAĞI,41.0804377010001,29.0109993,,Şişli,,İstanbul,Marmara Bölgesi,34330,Esentepe Mahallesi
+ÇINAR TAKSİ,41.0356335270001,28.765177522,Turgut Özal Bulvarı,Küçükçekmece,,İstanbul,Marmara Bölgesi,34307,Atakent Mahallesi
+BOSTANCI İDO,40.9525810010001,29.0937727,Çetin Emeç Bulvarı,Kadıköy,,İstanbul,Marmara Bölgesi,34744,Bostancı Mahallesi
+S.S.BÜYÜKŞEHİR TAKSİ DURAĞI,41.0117,28.6479,Beylikdüzü Caddesi,Beylikdüzü,,İstanbul,Marmara Bölgesi,34520,Büyükşehir Mahallesi
+KONUT TAKSİ DURAĞI,41.0818699010001,28.2575799,,Silivri,,İstanbul,Marmara Bölgesi,34570,Yeni Mahalle
+BEŞİKTAŞ BARBAROS BULVARI,41.0428,29.0071,İETT Beşiktaş Peronları,Beşiktaş,,İstanbul,Marmara Bölgesi,34022,Cihannüma Mahallesi
+AVCILAR 1 TAKSİ DURAĞI,40.9803878010001,28.7201013,Nurel Sokağı,Avcılar,,İstanbul,Marmara Bölgesi,34310,Merkez Mahallesi
+PAZARİÇİ ÇEŞMETAKSİ DURAĞI,41.0590399010001,28.9317118,Ordu Caddesi,Gaziosmanpaşa,,İstanbul,Marmara Bölgesi,34240,Pazariçi Mahallesi
+SANCAKTEPE HASTANE TAKSİ DURAĞI,41.006060045,29.193158705,mareşal eşref bitlis,Sancaktepe,,İstanbul,Marmara Bölgesi,34785,Emek Mahallesi
+TEKSTİLKENT KOZA PLAZA TAKSİ,41.069345845,28.8649251310001,Tekstilkent Caddesi,Esenler,,İstanbul,Marmara Bölgesi,34235,Oruçreis Mahallesi
+GÜLDESTE CADDESİ UATD,40.874349501,29.2320485,100. Yil Cocuk Park Ici Yolu,Pendik,,İstanbul,Marmara Bölgesi,34890,Batı Mahallesi
+METRO TAKSİ,41.0301270890001,28.815647573,Koçman Caddesi,Bağcılar,,İstanbul,Marmara Bölgesi,34212,Bağlar Mahallesi
+METE CADDESİ UATD,41.0367813010001,28.9873669,Mete Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34437,Gümüşsuyu
+VADİ TAKSİ DURAĞI,41.208412901,29.0231466,,Sarıyer,,İstanbul,Marmara Bölgesi,34450,Zekeriyaköy Mahallesi
+ORUÇLAR TAKSİ,40.9759793050001,29.044619574,Kerim Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34726,Fenerbahçe Mahallesi
+İSPARK BEŞİKTAŞ LEVENT ÇARŞI CADDESİ,41.0757480010001,29.0152378010001,Büyükdere Caddesi,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Levent Mahallesi
+KERVANCILAR TAKSİ,40.985478738,29.1088583370001,Dere Yolu Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34750,Küçükbakkalköy Mahallesi
+Çiçek Taksi,41.005799999,28.8805,Kerim Tekin Sokağı,Bahçelievler,,İstanbul,Marmara Bölgesi,34180,
+CELALİYE MEYDAN TAKSİ,41.051939201,28.4181774,,Büyükçekmece,,İstanbul,Marmara Bölgesi,34534,Celaliye Mahallesi
+YENİBOSNA KAVŞAĞI YAN YOL  BAKIRKÖY İSTİKAMETİ UMUMA AÇIK TAKSİ DURAĞI,40.9919595010001,28.8362634010001,Yenibosna Kavşağı,Bakırköy,,İstanbul,Marmara Bölgesi,34158,Ataköy 7-8-9-10. Kısım Mahallesi
+KAĞITHANE TERASEVLER TAKSİ DURAĞI,41.0636701010001,28.9683986,,Kâğıthane,,İstanbul,Marmara Bölgesi,34385,Talatpaşa Mahallesi
+MEGA TAKSİ,41.1246461010001,29.0347151,Gazeteciler Sokağı,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Darüşşafaka Mahallesi
+KÜÇÜKKÖY ÖZ TAKSİ KOOP,41.0739,28.9025,Hacı Salih Efendi Caddesi,Gaziosmanpaşa,,İstanbul,Marmara Bölgesi,34255,Yeni Mahalle Mahallesi
+GÖZTEPE HİZMET TAKSİ,40.979198501,29.0601499,Perçem Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34730,Göztepe Mahallesi
+CEVİZLİ TAKSİ DURAĞI,40.9104,29.156,Üsküdar Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34862,Atalar Mahallesi
+SEKMEN TAKSİ DURAĞI,40.928704001,29.2140643,Yunus Emre Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34882,Uğur Mumcu Mahallesi
+ACIBADEM ÇAMLIK TAKSİ,41.137700001,29.0388,Tarabya Bayırı Caddesi,Sarıyer,,İstanbul,Marmara Bölgesi,34457,Tarabya Mahallesi
+İSPARK - PENDİK MARİNA AVM ÖNÜ,40.871872201,29.2330319,IDO Pendik Yalova Feribotu Giris,Pendik,,İstanbul,Marmara Bölgesi,34890,Batı Mahallesi
+VİLLA TAKSİ,41.031977338,29.1820748160001,Aşıklar Çayırı Sokağı,Çekmeköy,,İstanbul,Marmara Bölgesi,34782,Mimar Sinan Mahallesi
+KARTAL KURFALI TAKSİ DURAĞI,40.9001425010001,29.2273913,Abdi İpekçi Caddesi,Kartal,,İstanbul,Marmara Bölgesi,34876,Hürriyet Mahallesi
+OSMANİYE MERKEZ TAKSİ DURAĞI,40.993,28.8836,Cami Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34146,Osmaniye Mahallesi
+STEIGENBERGER TAKSİ,41.0194808320001,28.817847627,Ali Duran Sokağı,Bahçelievler,,İstanbul,Marmara Bölgesi,34197,Yenibosna Merkez Mahallesi
+BAHÇEŞEHİR MİGROS TAKSİ DURAAĞI,41.061780701,28.6850561,Esenkent Bahçeşehir Yolu,Başakşehir,,İstanbul,Marmara Bölgesi,34488,Bahçeşehir 2. Kısım Mahallesi
+RASATHANE TAKSİ DURAĞI,41.0622000010001,29.066,Alparslan Sokağı,Üsküdar,,İstanbul,Marmara Bölgesi,34684,Küçüksu Mahallesi
+ESENTEPE DEDEMAN BEŞİKTAŞ TAKSİ,41.0645,29.009,Yener Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34394,Gayrettepe Mahallesi
+İstoç Taksi,41.07,28.826199999,2457. Sokak,Başakşehir,,İstanbul,Marmara Bölgesi,34480,Başak Mahallesi
+PALLADİUM AVM ÖNÜ,40.985300001,29.0991,Halk Caddesi,Ataşehir,,İstanbul,Marmara Bölgesi,34746,Barbaros Mahallesi
+BASINKÖY TAKSİ DURAĞI,40.9829535010001,28.781881,Şehit Muammer Yüzsüren Sokağı,Bakırköy,,İstanbul,Marmara Bölgesi,34153,Basınköy Mahallesi
+POYRAZ SOKAK UATD,40.991847201,29.0396012,Ahsen Çıkmazı Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,34722,Eğitim Mahallesi
+İSPARK - FATİH BEYAZIT MEYDANI,41.009537601,28.9639865,Ordu Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34126,Balabanağa Mahallesi
+İSPARK ALEMDAĞ ÜMRANİYE AVM ÖNÜ,41.0244,29.1073000010001,Alemdağ Caddesi,Ümraniye,,İstanbul,Marmara Bölgesi,34768,Yamanevler Mahallesi
+Aynalıkavak Taksi,41.0393000010001,28.9552,Aynalı Kavak Caddesi,Beyoğlu,,İstanbul,Marmara Bölgesi,34445,Keçeci Piri
+GÜNEŞTEPE TAKSİ DURAĞI,41.0296,28.8638,Şehit Özcan Canik Sokağı,Güngören,,İstanbul,Marmara Bölgesi,34164,Güneştepe Mahallesi
+KABATAŞ İDO İSKELESİ 2 UATD,41.0347495010001,28.9932791,,Beyoğlu,,İstanbul,Marmara Bölgesi,34427,Ömer Avni
+VIALAND AVM İÇİ,41.0756640370001,28.9229825030001,Şehit Metin Kaya Sokağı,Eyüpsultan,,İstanbul,Marmara Bölgesi,34065,Yeşilpınar Mahallesi
+İSPARK RIHTIM CADDESİ TAKSİ,40.9918000010001,29.0246,Rıhtım Caddesi,Kadıköy,,İstanbul,Marmara Bölgesi,34714,Osmanağa Mahallesi
+ADLİYE-HASTANE METRO DURAĞI-2,40.9174,29.1756999990001,Cevizli D100 Güney Yanyol,Kartal,,İstanbul,Marmara Bölgesi,34890,Cevizli Mahallesi
+PALMİYE TAKSİ DURAĞI,40.890660601,29.175086101,Turgut Özal Bulvarı,Kartal,,İstanbul,Marmara Bölgesi,34860,Kordonboyu Mahallesi
+Maya Residans,41.0769,29.0345,Selviler Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34337,Kültür Mahallesi
+LEVENT TAKSİ (BEŞİKTAŞ),41.0764862010001,29.0168621,Eylül Sokağı,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Levent Mahallesi
+SÜTLÜCE KÜLTÜR TAKSI-1,41.0494236010001,28.9453132,Aktarlar Kahyası Sokağı,Beyoğlu,,İstanbul,Marmara Bölgesi,34445,Sütlüce
+TRENDİST TAKSİ,40.9893198350001,29.1460705150001,Fazıl Paşa Sokağı,Ataşehir,,İstanbul,Marmara Bölgesi,34758,Atatürk Mahallesi
+BAYRAMPAŞA MERKEZ STAD TAKSİ DURAĞI,41.0389503010001,28.9074395,Yahya Kemal Caddesi,Bayrampaşa,,İstanbul,Marmara Bölgesi,34030,Yenidoğan Mahallesi
+FETİH(ATAŞEHİR) TELSİZ TAKSİ DURAĞI,41.0017540740001,29.0785719460001,Bağımsızlık Bulvarı,Ataşehir,,İstanbul,Marmara Bölgesi,34704,Fetih Mahallesi
+İSPARK HORHOR - FATİH,41.014178101,28.9518194,Horhor Caddesi,Fatih,,İstanbul,Marmara Bölgesi,34080,İskenderpaşa Mahallesi
+Konak Taksi,41.0892,29.0136,,Beşiktaş,,İstanbul,Marmara Bölgesi,34330,Konaklar Mahallesi
+KOCAYOL TAKSİ,40.9648,29.1027,Muhtar Halil Coşkun Sokağı,Kadıköy,,İstanbul,Marmara Bölgesi,,Bostancı Mahallesi
+ATAŞEHİR GREEN PARK OTELİ,40.966867501,29.109637101,Taksi yolu,Ataşehir,,İstanbul,Marmara Bölgesi,34752,İçerenköy Mahallesi
+YAŞAM VADİ,41.01443699,28.6375120760001,Derviş Eroğlu Caddesi,Beylikdüzü,,İstanbul,Marmara Bölgesi,34520,Cumhuriyet Mahallesi
