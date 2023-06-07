@@ -30,8 +30,7 @@ def show_map(map_data, point_color='red'):
     folium_static(map)
 
 #SHOW TRAFFIC POINTS FROM IBB TRAFFIC DENSITY DATA
-show_traffic_points = True
-if show_traffic_points:
+with st.expander('Traffic Density Points in Istanbul'):
     st.header('All Datapoints')
     show_map(data)
 
@@ -44,8 +43,7 @@ if show_traffic_points:
     show_map(over_20k_df, point_color='green')
 
 #SHOW TAXI STANDS DATA
-show_taxi_stand = True
-if show_taxi_stand:
+with st.expander('Taxi Points in Istanbul'):
     st.header('Taxi Stands in Istanbul')
     # Create a folium map centered at the first location
     map = folium.Map(location=[taxi_data['LATITUDE'].mean(), taxi_data['LONGITUDE'].mean()], zoom_start=9)
@@ -58,8 +56,7 @@ if show_taxi_stand:
     folium_static(map)
 
 #SHOW TAXI STANDS AND TRAFFIC DENSITY POINTS WITH OVER 28K HOURLY DATA
-show_taxi_traffic_density = True
-if show_taxi_traffic_density:
+with st.expander('Traffic Density Points w/ Taxi Stands in Istanbul'):
     st.header('Taxi Stands and Traffic Density Points w. Over 28k Hourly Data in Istanbul')
     # Create a folium map centered at the mean location
     map2 = folium.Map(location=[taxi_data['LATITUDE'].mean(), taxi_data['LONGITUDE'].mean()], zoom_start=9)
@@ -85,14 +82,5 @@ if show_taxi_traffic_density:
     
     folium_static(map2)
 
-    # folium.Circle(
-    # location=[lat, long],
-    # color=colormap(city_ratio),
-    # radius=50*math.sqrt(city_pop),
-    # fill=True,
-    # opacity=0.8,
-    # fill_opacity=1,
-    # tooltip='{}: {}'.format(city_name, city_ratio)
-    # ).add_to(m)
 
 
