@@ -52,7 +52,7 @@ if show_taxi_stand:
     # Add markers for each location in the DataFrame
     for index, row in taxi_data.iterrows():
         #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
-        popup_str = 'Name: '+str(row['Name'])+' Road: '+str(row['road'])+ ' Town: '+str(row['town'])+ ' Suburb: '+str(row['suburb'])
+        popup_str = 'Name: '+str(row['Name'])+'\n Road: '+str(row['road'])+ '\n Town: '+str(row['town'])+ '\n Suburb: '+str(row['suburb'])
         folium.CircleMarker([row['LATITUDE'], row['LONGITUDE']], radius=2, color='purple', fill=True, fill_color='purple', popup=popup_str).add_to(map)
     # Render the map in Streamlit as a static image
     folium_static(map)
