@@ -57,6 +57,42 @@ if show_taxi_stand:
     # Render the map in Streamlit as a static image
     folium_static(map)
 
+#SHOW TAXI STANDS AND TRAFFIC DENSITY POINTS WITH OVER 28K HOURLY DATA
+show_taxi_traffic_density = True
+if show_taxi_traffic_density:
+    st.header('Taxi Stands and Traffic Density Points w. Over 28k Hourly Data in Istanbul')
+    # Create a folium map centered at the mean location
+    map2 = folium.Map(location=[taxi_data['LATITUDE'].mean(), taxi_data['LONGITUDE'].mean()], zoom_start=9)
 
+    # Add markers for each location in the DataFrame
+    for index, row in taxi_data.iterrows():
+        #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
+        popup_str = 'Name: '+str(row['Name'])+'\n Road: '+str(row['road'])+ '\n Town: '+str(row['town'])+ '\n Suburb: '+str(row['suburb'])
+        folium.CircleMarker([row['LATITUDE'], row['LONGITUDE']], radius=2, color='red', fill=True, fill_color='red', popup=popup_str).add_to(map2)
+
+    over_28k_df = available_data[available_data.data_amount>28000]
+    # Add markers for each location in the DataFrame
+    for index, row in over_28k_df.iterrows():
+        #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
+        #folium.CircleMarker([row['LATITUDE'], row['LONGITUDE']], fill_opacity=0.0, radius=2, color='blue', fill=True, fill_color='blue', popup=row['road']).add_to(map2)
+        folium.Circle(location=[row['LATITUDE'], row['LONGITUDE']],
+                      color='blue',
+                      radius=2,
+                      fill=True,
+                      opacity=0.4,
+                      fill_opacity=0.4,
+                      tooltip=row['road']).add_to(map2)
+    
+    folium_static(map2)
+
+    # folium.Circle(
+    # location=[lat, long],
+    # color=colormap(city_ratio),
+    # radius=50*math.sqrt(city_pop),
+    # fill=True,
+    # opacity=0.8,
+    # fill_opacity=1,
+    # tooltip='{}: {}'.format(city_name, city_ratio)
+    # ).add_to(m)
 
 
