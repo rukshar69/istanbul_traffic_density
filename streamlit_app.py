@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd 
 import folium
 from streamlit_folium import folium_static
+from branca.colormap import linear
 
 @st.cache_data()
 def load_data():
@@ -9,14 +10,15 @@ def load_data():
     data = pd.read_csv('./data/geohash_coords_address_info.csv')
     available_data = pd.read_csv('data/geohash_address_available_hourly_data.csv')
     taxi_data = pd.read_csv('data/ist_taxi_stands.csv')
-    return data, available_data, taxi_data
+    football_stadium_data = pd.read_csv('data/sportevents_per_stadium.csv')
+    return data, available_data, taxi_data, football_stadium_data
 
 # Call the load_data function
-data, available_data, taxi_data = load_data()
+data, available_data, taxi_data, football_stadium_data = load_data()
 
 st.header('Istanbul traffic points')
 # Use the data in your Streamlit app
-st.write(data)
+# st.write(data)
 
 #SHOW MAP
 def show_map(map_data, point_color='red'):
@@ -80,6 +82,21 @@ with st.expander('Traffic Density Points w/ Taxi Stands in Istanbul'):
                       fill_opacity=0.4,
                       tooltip=row['road']).add_to(map2)
     
+    folium_static(map2)
+
+#SHOW STADIUM LOCATIONS ALONG WITH FOOTBALL MATCH COUNT
+with st.expander('Stadiums in Istanbul'):
+    st.header('Stadiums in Istanbul and Football Match Count')
+    # Create a color map
+    #colormap = linear.PuRd_09.scale(0, 100)  # Adjust the scale as per your data
+
+    # Create a folium map centered at the mean location
+    map2 = folium.Map(location=[football_stadium_data['stad_lat'].mean(), football_stadium_data['stad_long'].mean()], zoom_start=9)
+    # Add markers for each location in the DataFrame
+    for index, row in football_stadium_data.iterrows():
+        #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
+        popup_str = 'Name: '+str(row['stadium'])+'\n Match count: '+str(row['count'])
+        folium.CircleMarker([row['stad_lat'], row['stad_long']], radius=8, color='red', fill=True, fill_color='red', popup=popup_str).add_to(map2)
     folium_static(map2)
 
 
