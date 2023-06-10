@@ -1,3 +1,6 @@
+#deployed streamlit app: https://rukshar69-istanbul-traffic-density-streamlit-app-qrqk1p.streamlit.app/
+#GitHub Repo with necessary data: https://github.com/rukshar69/istanbul_traffic_density
+
 import streamlit as st
 import pandas as pd 
 import folium
