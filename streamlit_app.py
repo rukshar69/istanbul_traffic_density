@@ -6,23 +6,26 @@ import pandas as pd
 import folium
 from streamlit_folium import folium_static
 from branca.colormap import linear
+from PIL import Image
 
 @st.cache_data()
 def load_data():
     # Load your data here
-    data = pd.read_csv('./data/geohash_coords_address_info.csv')
+    #data = pd.read_csv('./data/geohash_coords_address_info.csv')
     available_data = pd.read_csv('data/geohash_address_available_hourly_data.csv')
     taxi_data = pd.read_csv('data/ist_taxi_stands.csv')
     football_stadium_data = pd.read_csv('data/sportevents_per_stadium.csv')
     ferry_data = pd.read_csv('data/tr_ist_ferry_trmnls.csv')
     metro_data = pd.read_csv('data/tr_ist_metro_stns.csv')
     bus_data = pd.read_csv('data/tr_ist_bus_stops.csv')
-    return data, available_data, taxi_data, football_stadium_data, ferry_data, metro_data, bus_data
+    #the clustered data only has points with over 28k hourly data
+    clustered_traffic_density_data = pd.read_csv('data/geohash_traffic_density_pt_clustered.csv')
+    return available_data, taxi_data, football_stadium_data, ferry_data, metro_data, bus_data, clustered_traffic_density_data
 
 # Call the load_data function
-data, available_data, taxi_data, football_stadium_data ,ferry_data, metro_data, bus_data= load_data()
+available_data, taxi_data, football_stadium_data ,ferry_data, metro_data, bus_data, clustered_traffic_density_data= load_data()
 
-st.header('Istanbul traffic points')
+st.header('Istanbul traffic EDA')
 # Use the data in your Streamlit app
 # st.write(data)
 
@@ -38,14 +41,42 @@ def show_map(map_data, point_color='red'):
     folium_static(map)
 
 
-page_options = ['vehicle_points', 'traffic_density_points']
+page_options = ['clustered traffic density pts','vehicle_points', 'traffic_density_points']
 page_selected_option = st.selectbox('Select an option',page_options)
 
+if page_selected_option == 'clustered traffic density pts':
+    #cluster colors based on label column values
+    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',4: 'yellow', 5: 'gray',6: 'orange', 7: 'pink',
+              8: 'darkred', 9: 'lightgreen',}
+    st.header('Traffic Density Points(w. over 28k data avaialable) Clustered')
+    
+    # Create a folium map centered at the mean location
+    map2 = folium.Map(location=[clustered_traffic_density_data['LATITUDE'].mean(), clustered_traffic_density_data['LONGITUDE'].mean()], zoom_start=9)
+    # Add markers for each location in the DataFrame
+    for index, row in clustered_traffic_density_data.iterrows():
+        #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
+        popup_str = row['road']
+        color = colors[row['label']]
+        folium.CircleMarker([row['LATITUDE'], row['LONGITUDE']], radius=2, color=color, fill=True, fill_color=color, popup=popup_str).add_to(map2)
+          
+    folium_static(map2)
+
+    st.header('Why use 10 clusters')
+    st.write('K-means clustering requires us to select K, the number of clusters we want to  \
+             group the data into. The elbow method lets us graph the inertia (a distance-based metric) \
+             and visualize the point at which it starts decreasing linearly. This point is referred to \
+             as the eblow and is a good estimate for the best value for K based on our data.')
+    #plot inertia vs k
+    inertia_v_k_image = Image.open('data/k_means_inertia.png')
+    st.image(inertia_v_k_image, caption='Inertia vs k', use_column_width=True)
+    st.write('The elbow method shows that 10 may be a good value for K, so we retrain and visualize the result. \
+            **Note**: Others may also prefer another value. The elbow method, as you can see, is an approximate \
+             method whose observations differ from person to person.')
 if page_selected_option == 'traffic_density_points':
     #SHOW TRAFFIC POINTS FROM IBB TRAFFIC DENSITY DATA
     with st.expander('Traffic Density Points in Istanbul'):
         st.header('All Datapoints')
-        show_map(data)
+        show_map(available_data)
 
         over_28k_df = available_data[available_data.data_amount>28000]
         st.header('Geohash points ('+str(len(over_28k_df)) +') with over 28k hourly data')
