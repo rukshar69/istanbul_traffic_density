@@ -20,10 +20,17 @@ def load_data():
     bus_data = pd.read_csv('data/tr_ist_bus_stops.csv')
     #the clustered data only has points with over 28k hourly data
     clustered_traffic_density_data = pd.read_csv('data/geohash_traffic_density_pt_clustered.csv')
-    return available_data, taxi_data, football_stadium_data, ferry_data, metro_data, bus_data, clustered_traffic_density_data
+    cluster4_traffic_density_data = pd.read_csv('data/geohash_traffic_density_pt_4clusters.csv')
+    cluster5_traffic_density_data = pd.read_csv('data/geohash_traffic_density_pt_5clusters.csv')
+    cluster6_traffic_density_data = pd.read_csv('data/geohash_traffic_density_pt_6clusters.csv')
+    cluster15_traffic_density_data = pd.read_csv('data/geohash_traffic_density_pt_15clusters.csv')
+    return available_data, taxi_data, football_stadium_data, ferry_data, metro_data, bus_data, clustered_traffic_density_data, \
+            cluster4_traffic_density_data, cluster5_traffic_density_data, cluster6_traffic_density_data, cluster15_traffic_density_data
 
 # Call the load_data function
-available_data, taxi_data, football_stadium_data ,ferry_data, metro_data, bus_data, clustered_traffic_density_data= load_data()
+available_data, taxi_data, football_stadium_data ,ferry_data, metro_data, bus_data, clustered_traffic_density_data, \
+    cluster4_traffic_density_data, cluster5_traffic_density_data, cluster6_traffic_density_data, \
+    cluster15_traffic_density_data= load_data()
 
 st.header('Istanbul traffic EDA')
 # Use the data in your Streamlit app
@@ -40,26 +47,60 @@ def show_map(map_data, point_color='red'):
     # Render the map in Streamlit as a static image
     folium_static(map)
 
-
-page_options = ['clustered traffic density pts','vehicle_points', 'traffic_density_points']
-page_selected_option = st.selectbox('Select an option',page_options)
-
-if page_selected_option == 'clustered traffic density pts':
-    #cluster colors based on label column values
-    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',4: 'yellow', 5: 'gray',6: 'orange', 7: 'pink',
-              8: 'darkred', 9: 'lightgreen',}
-    st.header('Traffic Density Points(w. over 28k data avaialable) Clustered')
+def show_clusters(colors, header, clustered_data):
+    st.header(header)
     
     # Create a folium map centered at the mean location
-    map2 = folium.Map(location=[clustered_traffic_density_data['LATITUDE'].mean(), clustered_traffic_density_data['LONGITUDE'].mean()], zoom_start=9)
+    map2 = folium.Map(location=[clustered_data['LATITUDE'].mean(), clustered_data['LONGITUDE'].mean()], zoom_start=9)
+    #SHOW CLUSTER CENTERS TOO
+    cluster_centers = clustered_data[['label',	'centroid_lat',	'centroid_lon',]]
+    cluster_centers = cluster_centers.drop_duplicates()
+    #st.write(cluster10_centers)
+    for index, row in cluster_centers.iterrows():
+        #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
+        color = 'black'
+        popup_str = row['label']
+        folium.Marker([row['centroid_lat'], row['centroid_lon']], radius=4, color=color, fill=True, fill_color=color, popup=popup_str).add_to(map2)
+    
     # Add markers for each location in the DataFrame
-    for index, row in clustered_traffic_density_data.iterrows():
+    for index, row in clustered_data.iterrows():
         #folium.Marker([row['LATITUDE'], row['LONGITUDE']], popup=row['road'], icon=folium.Icon(icon="circle", prefix='fa', color='blue')).add_to(map)
         popup_str = row['road']
         color = colors[row['label']]
         folium.CircleMarker([row['LATITUDE'], row['LONGITUDE']], radius=2, color=color, fill=True, fill_color=color, popup=popup_str).add_to(map2)
           
     folium_static(map2)
+
+page_options = ['clustered traffic density pts','vehicle_points', 'traffic_density_points']
+page_selected_option = st.selectbox('Select an option',page_options)
+
+if page_selected_option == 'clustered traffic density pts':
+    #10 CLUSTERS
+    #cluster colors based on label column values
+    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',4: 'yellow', 5: 'gray',6: 'orange', 7: 'pink',
+              8: 'darkred', 9: 'lightgreen',}
+    show_clusters(colors=colors, header='Traffic Density Points(w. over 28k data avaialable) for 10 Clusters',clustered_data= clustered_traffic_density_data)
+    
+    #15 CLUSTERS
+    #cluster colors based on label column values
+    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',4: 'yellow', 5: 'gray',6: 'orange', 7: 'pink',
+              8: 'darkred', 9: 'green',10: 'darkred', 11: 'cadetblue',12: 'cadetblue', 13: 'purple',14: 'yellow',}
+    header = 'Traffic Density Points(w. over 28k data avaialable) 15 clusters'
+    show_clusters(colors=colors, header=header, clustered_data= cluster15_traffic_density_data)
+    
+
+    #4 CLUSTERS
+    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',}
+    show_clusters(colors=colors, header='Traffic Density Points(w. over 28k data avaialable) Clustered(4 clusters)', clustered_data=cluster4_traffic_density_data)
+    
+    #5 CLUSTERS
+    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',4: 'yellow'}    
+    show_clusters(colors=colors, header='Traffic Density Points(w. over 28k data avaialable) Clustered(5 clusters)', clustered_data=cluster5_traffic_density_data)
+    
+    #6 CLUSTERS
+    colors = {0: 'blue', 1: 'red',2: 'green', 3: 'purple',4: 'yellow',5: 'gray'}
+    st.header('Traffic Density Points(w. over 28k data avaialable) Clustered(6 clusters)')
+    show_clusters(colors=colors, header='Traffic Density Points(w. over 28k data avaialable) Clustered(6 clusters)', clustered_data=cluster6_traffic_density_data)    
 
     st.header('Why use 10 clusters')
     st.write('K-means clustering requires us to select K, the number of clusters we want to  \
